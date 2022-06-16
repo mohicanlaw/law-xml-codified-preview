@@ -16,7 +16,7 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="e2898f6eaab1a1dc1e48119e5be32c1a10c26aae"/>
+        <repository name="mohicanlaw/law-xml" commit="a00e8d4d65d4071bc3dbecccb4ce5e1c14bd0f1b"/>
       </repositories>
       <platform version="2.4.9" reproducible="false"/>
       <build-date>2022-06-16</build-date>
@@ -24,7 +24,7 @@
     </build>
   </meta>
   <text>Welcome to the new home of the Stockbridge-Munsee Tribal Code (previously the Tribal Ordinances). In 2021, the Tribal Ordinances were reorganized into the , Stockbridge-Munsee Tribal Code. Ordinance chapters were renumbered and collected by subject into Titles with three-letter abbreviations.</text>
-  <text>To find the new location of an old ordinance, use the <a href="./us/nsn/mohican/council/code/attachments/recodification-table">Ordinance Cross-References</a> located as an attachment in the new Code.</text>
+  <text>To find the new location of an old ordinance, use the <a href="./us/nsn/mohican/council/code/attachments">Ordinance Cross-References</a> located as an attachment in the new Code.</text>
   <text>Your new code has many improved features. To search for phrases or words in the code click the <span aria-hidden="true" class="icon r-icon-search"/> menu item in the upper left corner of the screen. To compare the current code with the code on a prior date, select the <span aria-hidden="true" class="icon r-icon-compare"/> menu item on the panel to the left.</text>
   <xi:include href="./us/nsn/mohican/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
