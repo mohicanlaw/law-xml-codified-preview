@@ -34,7 +34,7 @@
       <text>that the Stockbridge-Munsee Tribal Council hereby adopts a new <cite doc="Stockbridge-Munsee Tribal Code" path="70">Chapter 70</cite>, Stockbridge-Munsee Flag Ordinance, as part of Stockbridge-Munsee tribal law.</text>
     </recital>
   </recitals>
-  <codify:insert path="GOV" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="GOV.04.01">
+  <codify:insert path="GOV" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|GOV.04.01">
     <container>
       <prefix>Chapter</prefix>
       <num>GOV.04</num>

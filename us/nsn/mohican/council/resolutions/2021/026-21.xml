@@ -13,7 +13,7 @@
       <citation type="res" url="./adopted/026-21.pdf">Stockbridge-Munsee Tribal Council Res. No. 026-21</citation>
     </citations>
   </meta>
-  <codify:replace path="PRP.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="PRP.03">
+  <codify:replace path="PRP.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|PRP.03">
     <container>
       <num>PRP.03</num>
       <prefix>Chapter</prefix>
@@ -22,7 +22,7 @@
       <text>Recodified as <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">ADM.03</cite>.</text>
     </container>
   </codify:replace>
-  <codify:insert path="ADM" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ADM.03.01">
+  <codify:insert path="ADM" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ADM.03.01">
     <container>
       <prefix>Chapter</prefix>
       <num>ADM.03</num>

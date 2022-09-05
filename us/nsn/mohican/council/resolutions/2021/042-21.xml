@@ -46,7 +46,7 @@
     <text>_______________________	   ________________________</text>
     <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
   </procedural-data>
-  <codify:replace path="ENV.01.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.01">
+  <codify:replace path="ENV.01.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.01">
     <section>
       <num>ENV.01.01</num>
       <heading>Tribal Council Purpose And Findings</heading>
@@ -89,7 +89,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.03">
+  <codify:replace path="ENV.01.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.03">
     <section>
       <num>ENV.01.03</num>
       <heading>Definitions</heading>
@@ -175,7 +175,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.08">
+  <codify:replace path="ENV.01.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.08">
     <section>
       <num>ENV.01.08</num>
       <heading>License, Permits, And Harvest Tags (Enrolled Member And Minor-Aged Direct Descendent)</heading>
@@ -269,7 +269,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.09" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.09">
+  <codify:replace path="ENV.01.09" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.09">
     <section>
       <num>ENV.01.09</num>
       <heading>Permittee Hunting Permits And Fees</heading>
@@ -307,7 +307,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.10">
+  <codify:replace path="ENV.01.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.10">
     <section>
       <num>ENV.01.10</num>
       <heading>Deer Hunting Regulations</heading>
@@ -357,7 +357,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.12" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.12">
+  <codify:replace path="ENV.01.12" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.12">
     <section>
       <num>ENV.01.12</num>
       <heading>Hunting Regulations – In General</heading>
@@ -431,7 +431,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.13" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.13">
+  <codify:replace path="ENV.01.13" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.13">
     <section>
       <num>ENV.01.13</num>
       <heading>Bear Hunting Regulations</heading>
@@ -505,7 +505,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.14" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.14">
+  <codify:replace path="ENV.01.14" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.14">
     <section>
       <num>ENV.01.14</num>
       <heading>Turkey Hunting Regulations</heading>
@@ -551,7 +551,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.15" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.15">
+  <codify:replace path="ENV.01.15" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.15">
     <section>
       <num>ENV.01.15</num>
       <heading>Small Game, Migratory Bird And Grouse Regulations</heading>
@@ -585,7 +585,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.17" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.17">
+  <codify:replace path="ENV.01.17" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.17">
     <section>
       <num>ENV.01.17</num>
       <heading>Hunting Infractions</heading>
@@ -699,7 +699,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.18" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.18">
+  <codify:replace path="ENV.01.18" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.18">
     <section>
       <num>ENV.01.18</num>
       <heading>Mandatory Registration / Wildlife Count</heading>
@@ -733,7 +733,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.19" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.19">
+  <codify:replace path="ENV.01.19" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.19">
     <section>
       <num>ENV.01.19</num>
       <heading>Fishing Regulations</heading>
@@ -791,7 +791,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.21" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.21">
+  <codify:replace path="ENV.01.21" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.21">
     <section>
       <num>ENV.01.21</num>
       <heading>Fishing Infractions</heading>
@@ -861,7 +861,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.22" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.22">
+  <codify:replace path="ENV.01.22" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.22">
     <section>
       <num>ENV.01.22</num>
       <heading>Fur-Bearing Animals And Trapping Regulations</heading>
@@ -959,7 +959,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.24" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.24">
+  <codify:replace path="ENV.01.24" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.24">
     <section>
       <num>ENV.01.24</num>
       <heading>Trapping Infractions</heading>
@@ -1045,7 +1045,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.25" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.25">
+  <codify:replace path="ENV.01.25" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.25">
     <section>
       <num>ENV.01.25</num>
       <heading>Motor Vehicles</heading>
@@ -1067,7 +1067,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.26" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.26">
+  <codify:replace path="ENV.01.26" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.26">
     <section>
       <num>ENV.01.26</num>
       <heading>Motor Vehicle And Transportation Related Infractions</heading>
@@ -1113,7 +1113,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.27" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.27">
+  <codify:replace path="ENV.01.27" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.27">
     <section>
       <num>ENV.01.27</num>
       <heading>Protected Species</heading>
@@ -1151,7 +1151,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="ENV.01.29" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.29">
+  <codify:replace path="ENV.01.29" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.29">
     <section>
       <num>ENV.01.29</num>
       <heading>Enforcement</heading>
@@ -1269,5 +1269,5 @@
       </para>
     </section>
   </codify:replace>
-  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="ENV.01.01">29. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 042-21">Resolution No. 042-021</cite>, adopted August 3, 2021.</codify:annotation>
+  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.01">29. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 042-21">Resolution No. 042-021</cite>, adopted August 3, 2021.</codify:annotation>
 </document>

@@ -34,7 +34,7 @@
       <text>that the Stockbridge-Munsee  hereby adopts a new <cite doc="Stockbridge-Munsee Tribal Code" path="5A">Chapter 5-A</cite>, Appellate Procedure Ordinance, as part of Stockbridge-Munsee tribal law.</text>
     </recital>
   </recitals>
-  <codify:insert path="TCT" after="TCT.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TCT.03.01">
+  <codify:insert path="TCT" after="TCT.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.03.01">
     <container>
       <prefix>Chapter</prefix>
       <num>TCT.03</num>

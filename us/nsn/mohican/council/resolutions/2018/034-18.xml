@@ -55,11 +55,11 @@
       </text>
     </recital>
   </recitals>
-  <codify:find-replace path="SAF.05" count="1" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.01">
+  <codify:find-replace path="SAF.05" count="1" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.01">
     <find>Food Service Code</find>
     <replace>Food Ordinance</replace>
   </codify:find-replace>
-  <codify:replace path="SAF.05.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.01">
+  <codify:replace path="SAF.05.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.01">
     <section>
       <num>SAF.05.01</num>
       <heading>Purpose, Authority, And Jurisdiction</heading>
@@ -138,7 +138,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="SAF.05.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.02">
+  <codify:replace path="SAF.05.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.02">
     <section>
       <num>SAF.05.02</num>
       <heading>Definitions</heading>
@@ -212,7 +212,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="SAF.05.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.03">
+  <codify:replace path="SAF.05.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.03">
     <section>
       <num>SAF.05.03</num>
       <heading>Food Access</heading>
@@ -286,7 +286,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="SAF.05.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.04">
+  <codify:replace path="SAF.05.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.04">
     <section>
       <num>SAF.05.04</num>
       <heading>Promotion Of Traditional, Healthy, And Local Foods In Tribal Programs</heading>
@@ -317,7 +317,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="SAF.05.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.05">
+  <codify:replace path="SAF.05.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.05">
     <section>
       <num>SAF.05.05</num>
       <heading>Food Code</heading>
@@ -331,7 +331,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="SAF.05.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.06">
+  <codify:replace path="SAF.05.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.06">
     <section>
       <num>SAF.05.06</num>
       <heading>Cottage Foods</heading>
@@ -484,7 +484,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.07">
+  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.07">
     <section>
       <num>SAF.05.07</num>
       <heading>Food Service Permit</heading>
@@ -555,7 +555,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.7</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.08">
+  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.08">
     <section>
       <num>SAF.05.08</num>
       <heading>Temporary Food Service Permit</heading>
@@ -610,7 +610,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.8</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.09">
+  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.09">
     <section>
       <num>SAF.05.09</num>
       <heading>Food Handler Card</heading>
@@ -637,7 +637,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.9</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.10">
+  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.10">
     <section>
       <num>SAF.05.10</num>
       <heading>Inspections</heading>
@@ -672,7 +672,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.10</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.11">
+  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.11">
     <section>
       <num>SAF.05.11</num>
       <heading>Termination Of Permits</heading>
@@ -687,7 +687,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.11</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.12">
+  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.12">
     <section>
       <num>SAF.05.12</num>
       <heading>Records And Enforcement</heading>
@@ -702,7 +702,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.12</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.13">
+  <codify:insert path="SAF.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.13">
     <section>
       <num>SAF.05.13</num>
       <heading>Effective Period Of Ordinance</heading>
@@ -721,5 +721,5 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.13</annotation>
     </section>
   </codify:insert>
-  <codify:annotation path="SAF.05" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.05.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 034-18">Resolution No.034-18</cite>, adopted April 17, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="SAF.05" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 034-18">Resolution No.034-18</cite>, adopted April 17, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
 </document>

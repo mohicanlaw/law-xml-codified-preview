@@ -51,7 +51,7 @@
       </text>
     </recital>
   </recitals>
-  <codify:replace path="EMP.02.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.01">
+  <codify:replace path="EMP.02.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.01">
     <section>
       <num>EMP.02.01</num>
       <heading>Purpose And Authority</heading>
@@ -66,7 +66,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.05</annotation>
     </section>
   </codify:replace>
-  <codify:replace path="EMP.02.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.02">
+  <codify:replace path="EMP.02.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.02">
     <section>
       <num>EMP.02.02</num>
       <heading>Definitions</heading>
@@ -117,7 +117,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.1</annotation>
     </section>
   </codify:replace>
-  <codify:replace path="EMP.02.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.03">
+  <codify:replace path="EMP.02.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.03">
     <section>
       <num>EMP.02.03</num>
       <heading>Establishing Preference</heading>
@@ -144,7 +144,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.2</annotation>
     </section>
   </codify:replace>
-  <codify:replace path="EMP.02.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.04">
+  <codify:replace path="EMP.02.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.04">
     <section>
       <num>EMP.02.04</num>
       <heading>Order Of Preference</heading>
@@ -191,7 +191,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.3</annotation>
     </section>
   </codify:replace>
-  <codify:replace path="EMP.02.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.05">
+  <codify:replace path="EMP.02.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.05">
     <section>
       <num>EMP.02.05</num>
       <heading>Coverage</heading>
@@ -199,7 +199,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.4</annotation>
     </section>
   </codify:replace>
-  <codify:replace path="EMP.02.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.06">
+  <codify:replace path="EMP.02.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.06">
     <section>
       <num>EMP.02.06</num>
       <heading>Enforcement</heading>
@@ -218,7 +218,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.5</annotation>
     </section>
   </codify:replace>
-  <codify:replace path="EMP.02.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.07">
+  <codify:replace path="EMP.02.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.07">
     <section>
       <num>EMP.02.07</num>
       <heading>Effect Of Stockbridge-Munsee Employee Rights Ordinance</heading>
@@ -226,7 +226,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.6</annotation>
     </section>
   </codify:replace>
-  <codify:replace path="EMP.02.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.08">
+  <codify:replace path="EMP.02.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.08">
     <section>
       <num>EMP.02.08</num>
       <heading>Effective Date And Amendments</heading>
@@ -241,7 +241,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.7</annotation>
     </section>
   </codify:replace>
-  <codify:insert path="EMP.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.09">
+  <codify:insert path="EMP.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.09">
     <section>
       <num>EMP.02.09</num>
       <heading>Remedies; Limited Waiver Of Sovereign Immunity For Purposes Of Enforcement</heading>
@@ -260,6 +260,6 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 54, §54.8</annotation>
     </section>
   </codify:insert>
-  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.01">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 031-20">Resolution No.031-20</cite>, adopted January 21, 2020, approved by BIA January 28, 2021.</codify:annotation>
-  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EMP.02.01">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.01">4. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 031-20">Resolution No.031-20</cite>, adopted January 21, 2020, approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="EMP.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EMP.02.01">5. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</codify:annotation>
 </document>

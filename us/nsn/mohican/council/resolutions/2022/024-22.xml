@@ -326,5 +326,5 @@
       </text>
     </section>
   </codify:replace>
-  <codify:annotation path="SAF.04" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="SAF.04.01">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 024-22">Resolution No. 024-22</cite>, adopted January 18, 2022, approved by BIA January 25, 2022.</codify:annotation>
+  <codify:annotation path="SAF.04" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.04.01">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 024-22">Resolution No. 024-22</cite>, adopted January 18, 2022, approved by BIA January 25, 2022.</codify:annotation>
 </document>

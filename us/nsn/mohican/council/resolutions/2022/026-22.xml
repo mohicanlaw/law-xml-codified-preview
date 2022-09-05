@@ -45,9 +45,9 @@
     <text>_______________________	________________________</text>
     <text>Shannon Holsey, President	Jody Hartwig, Secretary</text>
   </procedural-data>
-  <codify:find-replace path="TCT.[07]" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TCT.07.01">
+  <codify:find-replace path="TCT.[07]" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.01">
     <find>TCT.[07]</find>
     <replace>TCT.07</replace>
   </codify:find-replace>
-  <codify:annotation path="TCT.07" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TCT.07.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-22">Resolution No. 026-22</cite>, adopted February 16, 2022.</codify:annotation>
+  <codify:annotation path="TCT.07" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TCT.07.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-22">Resolution No. 026-22</cite>, adopted February 16, 2022.</codify:annotation>
 </document>

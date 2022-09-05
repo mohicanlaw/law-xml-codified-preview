@@ -52,7 +52,7 @@
       </ul>
     </text>
   </recitals>
-  <codify:replace path="TAX.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.02">
+  <codify:replace path="TAX.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.02">
     <container>
       <num>TAX.02</num>
       <prefix>Chapter</prefix>
@@ -68,11 +68,11 @@
       </annotations>
     </container>
   </codify:replace>
-  <codify:find-replace path="TAX.01" count="1" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.01">
+  <codify:find-replace path="TAX.01" count="1" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.01">
     <find>Construction Sales Tax Ordinance</find>
     <replace>Tax Ordinance</replace>
   </codify:find-replace>
-  <codify:replace path="TAX.01.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.01">
+  <codify:replace path="TAX.01.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.01">
     <section>
       <num>TAX.01.01</num>
       <heading>General</heading>
@@ -124,7 +124,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="TAX.01.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.02">
+  <codify:replace path="TAX.01.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.02">
     <section>
       <num>TAX.01.02</num>
       <heading>Definitions</heading>
@@ -274,35 +274,35 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="TAX.01.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.03">
+  <codify:replace path="TAX.01.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.03">
     <section>
       <num>TAX.01.03</num>
       <heading>Liability For Taxes</heading>
       <text>Taxes assessed under this Tax Ordinance are the liability of the Taxpayers.</text>
     </section>
   </codify:replace>
-  <codify:replace path="TAX.01.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.04">
+  <codify:replace path="TAX.01.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.04">
     <section>
       <num>TAX.01.04</num>
       <heading>Authority To Abate</heading>
       <text>The Tax Commission may abate any part of an assessment which it determines was incorrectly, erroneously, or illegally made, as long as such abatement is: (i) in response to a written request before any court acquires jurisdiction in the matter; and (ii) made after an original assessment is found to be incorrect.</text>
     </section>
   </codify:replace>
-  <codify:replace path="TAX.01.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.05">
+  <codify:replace path="TAX.01.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.05">
     <section>
       <num>TAX.01.05</num>
       <heading>Closing Agreements</heading>
       <text>If at any time after a final assessment of Taxes, the Tax Commission in good faith is in doubt of the liability of the Taxpayer for the payment thereof, it may compromise the liability by entering into a written closing agreement with the Taxpayer that adequately protects the interest of the Tribe, provided that the agreement will be subject to final approval by the Tribal Council. Any such agreement shall preserve the sovereign immunity of the Tribe and the jurisdiction of the Tribal court, and be subject to all of the laws of the Tribe.</text>
     </section>
   </codify:replace>
-  <codify:replace path="TAX.01.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.06">
+  <codify:replace path="TAX.01.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.06">
     <section>
       <num>TAX.01.06</num>
       <heading>Confidentiality Rule</heading>
       <text>Information received by the Tax Commission is confidential and protected under the disclosure rules set forth in the Tax Regulations.</text>
     </section>
   </codify:replace>
-  <codify:replace path="TAX.01.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.07">
+  <codify:replace path="TAX.01.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.07">
     <section>
       <num>TAX.01.07</num>
       <heading>Examination And Audits</heading>
@@ -332,7 +332,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.08">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.08">
     <section>
       <num>TAX.01.08</num>
       <heading>Notice Deemed Effective</heading>
@@ -340,7 +340,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.8</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.09">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.09">
     <section>
       <num>TAX.01.09</num>
       <heading>Enforcement</heading>
@@ -348,7 +348,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.9</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.10">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.10">
     <section>
       <num>TAX.01.10</num>
       <heading>Record Keeping</heading>
@@ -356,7 +356,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.10</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.11">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.11">
     <section>
       <num>TAX.01.11</num>
       <heading>Tax Commission Regulations And Filing Procedures</heading>
@@ -413,7 +413,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.11</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.12">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.12">
     <section>
       <num>TAX.01.12</num>
       <heading>Assessments And Noncompliance Penalties</heading>
@@ -450,7 +450,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.12</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.13">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.13">
     <section>
       <num>TAX.01.13</num>
       <heading>Collection And Appeals</heading>
@@ -533,7 +533,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.13</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.14">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.14">
     <section>
       <num>TAX.01.14</num>
       <heading>Tax Receipts</heading>
@@ -550,7 +550,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.14</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.15">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.15">
     <section>
       <num>TAX.01.15</num>
       <heading>Sales Tax Code: Purpose</heading>
@@ -558,7 +558,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.15</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.16">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.16">
     <section>
       <num>TAX.01.16</num>
       <heading>Imposition Of Sales Tax</heading>
@@ -580,7 +580,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.16</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.17">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.17">
     <section>
       <num>TAX.01.17</num>
       <heading>Exemptions, Returns, And Payments</heading>
@@ -633,7 +633,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.17</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.18">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.18">
     <section>
       <num>TAX.01.18</num>
       <heading>Administrative Procedures</heading>
@@ -641,14 +641,14 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.18</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.19">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.19">
     <section>
       <num>TAX.01.19</num>
       <heading>Reserved</heading>
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.19</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.20">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.20">
     <section>
       <num>TAX.01.20</num>
       <heading>Occupancy Tax Code:  Purpose</heading>
@@ -656,7 +656,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.20</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.21">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.21">
     <section>
       <num>TAX.01.21</num>
       <heading>Imposition Of Tax</heading>
@@ -678,7 +678,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.21</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.22">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.22">
     <section>
       <num>TAX.01.22</num>
       <heading>Exemptions, Returns And Payments</heading>
@@ -705,7 +705,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.22</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.23">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.23">
     <section>
       <num>TAX.01.23</num>
       <heading>Administrative Regulations</heading>
@@ -713,7 +713,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.23</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.24">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.24">
     <section>
       <num>TAX.01.24</num>
       <heading>Effective Date</heading>
@@ -721,7 +721,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.24</annotation>
     </section>
   </codify:insert>
-  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.25">
+  <codify:insert path="TAX.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.25">
     <section>
       <num>TAX.01.25</num>
       <heading>Severability</heading>
@@ -729,7 +729,7 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.25</annotation>
     </section>
   </codify:insert>
-  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="TAX.01.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No.026-18</cite>, adopted March 6, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="TAX.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|TAX.01.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No.026-18</cite>, adopted March 6, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
   <annotations>
     <annotation type="Legislative History">Rescinded the existing Chapter 57 (Construction Tax Ordinance) and Chapter 57-A (Room Tax Ordinance) to adopt a new Tax Ordinance as Chapter 57. The new Chapter 57 establishes a more comprehensive tribal tax regime that incorporated both a sales tax and a hotel occupancy tax, as well as the related administrative process.</annotation>
   </annotations>

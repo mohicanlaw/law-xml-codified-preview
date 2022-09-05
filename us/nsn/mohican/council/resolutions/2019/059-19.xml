@@ -46,28 +46,28 @@
       </text>
     </recital>
   </recitals>
-  <codify:replace path="EDU.02.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.01">
+  <codify:replace path="EDU.02.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.01">
     <section>
       <num>EDU.02.01</num>
       <heading>Purpose</heading>
       <text>The purpose of this code is to support the families of school-age children in their duty to require regular school attendance of the school-age children in their household when the family is domiciled on the Stockbridge-Munsee Community's trust lands.</text>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.03">
+  <codify:replace path="EDU.02.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.03">
     <section>
       <num>EDU.02.03</num>
       <heading>Omitted</heading>
       <text>This section is intentionally omitted.</text>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.04">
+  <codify:replace path="EDU.02.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.04">
     <section>
       <num>EDU.02.04</num>
       <heading>Interpretation</heading>
       <text>This Ordinance shall be liberally construed to effectuate the purpose stated in <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.02.01">Section EDU.02.01</cite>.</text>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.05">
+  <codify:replace path="EDU.02.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.05">
     <section>
       <num>EDU.02.05</num>
       <heading>Applicability</heading>
@@ -85,7 +85,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.06">
+  <codify:replace path="EDU.02.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.06">
     <section>
       <num>EDU.02.06</num>
       <heading>Definitions</heading>
@@ -152,21 +152,21 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.07">
+  <codify:replace path="EDU.02.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.07">
     <section>
       <num>EDU.02.07</num>
       <heading>School Enrollment Required</heading>
       <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), any person having under their control a school age child shall enroll the child in school.</text>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.08">
+  <codify:replace path="EDU.02.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.08">
     <section>
       <num>EDU.02.08</num>
       <heading>Requirement To Attend School</heading>
       <text>Except as excused under the state compulsory attendance law (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec. 118.15</cite>), or under a school policy governing school attendance, any person having under their control a school age child shall cause the child to attend the school in which the school age child is or should be enrolled.</text>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.09" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.09">
+  <codify:replace path="EDU.02.09" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.09">
     <section>
       <num>EDU.02.09</num>
       <heading>Truancy Prohibited.</heading>
@@ -180,7 +180,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.10">
+  <codify:replace path="EDU.02.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.10">
     <section>
       <num>EDU.02.10</num>
       <heading>Persons Responsible For Enforcement</heading>
@@ -198,7 +198,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.11" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.11">
+  <codify:replace path="EDU.02.11" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.11">
     <section>
       <num>EDU.02.11</num>
       <heading>Enforcement</heading>
@@ -228,14 +228,14 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.12" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.12">
+  <codify:replace path="EDU.02.12" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.12">
     <section>
       <num>EDU.02.12</num>
       <heading>Unit Of Prosecution</heading>
       <text>Regardless of the number of incidents of truancy in a single day, a child may not be prosecuted for more than one truancy violation per school day.</text>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.13" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.13">
+  <codify:replace path="EDU.02.13" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.13">
     <section>
       <num>EDU.02.13</num>
       <heading>Penalties</heading>
@@ -261,7 +261,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.14" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.14">
+  <codify:replace path="EDU.02.14" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.14">
     <section>
       <num>EDU.02.14</num>
       <heading>Referral For Review As Youth In Need Of Care</heading>
@@ -275,19 +275,19 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.15" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.15">
+  <codify:replace path="EDU.02.15" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.15">
     <section>
       <num>EDU.02.15</num>
       <heading>Omitted</heading>
       <text>This section is intentionally omitted.</text>
     </section>
   </codify:replace>
-  <codify:replace path="EDU.02.16" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.16">
+  <codify:replace path="EDU.02.16" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.16">
     <section>
       <num>EDU.02.16</num>
       <heading>Tribal Court Jurisdiction</heading>
       <text>The Tribal Court shall have jurisdiction over cases brought to enforce this code.  Proceedings shall be conducted in accordance with applicable Stockbridge-Munsee Tribal laws.</text>
     </section>
   </codify:replace>
-  <codify:annotation path="EDU.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="EDU.02.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 059-19">Resolution No.059-19</cite>, adopted August 6, 2019.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="EDU.02" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 059-19">Resolution No.059-19</cite>, adopted August 6, 2019.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
 </document>
