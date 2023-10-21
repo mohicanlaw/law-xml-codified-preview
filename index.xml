@@ -16,10 +16,10 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="862c39738fd943c74a8cc456a6db6efc5a55cd36"/>
+        <repository name="mohicanlaw/law-xml" commit="f418b83b8119f983a899ce78f6a229b3fd2b3579"/>
       </repositories>
-      <platform version="2.11.0" reproducible="false"/>
-      <build-date>2023-05-23</build-date>
+      <platform version="2.12.7" reproducible="false"/>
+      <build-date>2023-10-21</build-date>
       <codified-date>2022-02-16</codified-date>
     </build>
   </meta>
@@ -76,4 +76,8 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/1968/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
+  <collection name="us/nsn/mohican/council/opinions">
+    <heading>Tribal Court of Appeals Opinions</heading>
+    <xi:include href="./us/nsn/mohican/council/opinions/2002/index.xml"/>
+  </collection>
 </library>
