@@ -16,9 +16,9 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="0b0e185718cd7c95596b1b96886dde295084c14c"/>
+        <repository name="mohicanlaw/law-xml" commit="32c2c920da55ef555e5fd7a4c28fa54f14f4ace0"/>
       </repositories>
-      <platform version="2.13.0" reproducible="false"/>
+      <platform version="2.12.7" reproducible="false"/>
       <build-date>2023-10-25</build-date>
       <codified-date>2023-09-22</codified-date>
     </build>
