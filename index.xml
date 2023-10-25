@@ -18,7 +18,7 @@
       <repositories>
         <repository name="mohicanlaw/law-xml" commit="5e1125be95a8b55ce7c2402d56287c429b4302a4"/>
       </repositories>
-      <platform version="2.12.7" reproducible="false"/>
+      <platform version="2.13.0" reproducible="false"/>
       <build-date>2023-10-25</build-date>
       <codified-date>2023-09-22</codified-date>
     </build>
