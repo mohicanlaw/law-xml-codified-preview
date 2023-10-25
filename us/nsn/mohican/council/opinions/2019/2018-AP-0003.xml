@@ -99,49 +99,55 @@
           <em>Sovereign Immunity</em>
         </strong>
       </text>
-      <para>
-        <num>(A)</num>
-        <text>
-          <em>The Stockbridge-Munsee Community is immune from suit except to the extent that the Tribal Council expressly waives sovereign immunity by resolution or by an enactment of an ordinance.</em>
-        </text>
-      </para>
-      <text>Thus, a clear waiver containing express language detailing the Tribe's waiver must be provided within a resolution or ordinance, adopted by the Tribe in accordance with Tribal law.</text>
+      <include>
+        <para>
+          <num>(A)</num>
+          <text>
+            <em>The Stockbridge-Munsee Community is immune from suit except to the extent that the Tribal Council expressly waives sovereign immunity by resolution or by an enactment of an ordinance.</em>
+          </text>
+        </para>
+      </include>
     </para>
+    <text>Thus, a clear waiver containing express language detailing the Tribe's waiver must be provided within a resolution or ordinance, adopted by the Tribe in accordance with Tribal law.</text>
     <para>
       <num>B.</num>
       <text>For the purposes of employment disputes a valid limited waiver of sovereign immunity was enacted by the Community.</text>
       <text>The Stockbridge-Munsee Community enacted <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01.07|(f)">§53.5 (F)</cite> to provide the available remedies for employment cases under the limited waiver. Those remedies are:</text>
-      <para>
-        <num>(F)</num>
-        <text>
-          <em>Upon a credible finding by the court based upon credible evidence that a violation has occurred, the Court may order any of the following remedies:</em>
-        </text>
+      <include>
         <para>
-          <num>(1)</num>
+          <num>(F)</num>
           <text>
-            <em>Back-pay not to exceed one (1) years wages</em>
+            <em>Upon a credible finding by the court based upon credible evidence that a violation has occurred, the Court may order any of the following remedies:</em>
           </text>
+          <para>
+            <num>(1)</num>
+            <text>
+              <em>Back-pay not to exceed one (1) years wages</em>
+            </text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>
+              <em>Reinstatement</em>
+            </text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>
+              <em>Any of the non-monetary remedies which are narrowly tailored to remedy the violation</em>
+            </text>
+          </para>
         </para>
-        <para>
-          <num>(2)</num>
-          <text>
-            <em>Reinstatement</em>
-          </text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>
-            <em>Any of the non-monetary remedies which are narrowly tailored to remedy the violation</em>
-          </text>
-        </para>
-      </para>
+      </include>
       <text>The Community then in <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01.07|(g)">§53.5 (G)</cite> provides a limited waiver of sovereign immunity to grant the remedies listed above stating:</text>
-      <para>
-        <num>(G)</num>
-        <text>
-          <em>Only for claims filed within the Statute of limitations, the Stockbridge-Munsee Community provides a limited waiver of sovereign immunity for the purpose of permitting claims arising under Section 53.5 and allowing only those remedies identified in subsection (F) above.</em>
-        </text>
-      </para>
+      <include>
+        <para>
+          <num>(G)</num>
+          <text>
+            <em>Only for claims filed within the Statute of limitations, the Stockbridge-Munsee Community provides a limited waiver of sovereign immunity for the purpose of permitting claims arising under Section 53.5 and allowing only those remedies identified in subsection (F) above.</em>
+          </text>
+        </para>
+      </include>
       <text>Of those remedies available under <cite doc="Stockbridge-Munsee Tribal Code" path="EMP.01.07|(f)">53.5 (F)</cite> only one provides monetary relief and is limited to back-pay not to exceed one year's wages.</text>
     </para>
     <para>
