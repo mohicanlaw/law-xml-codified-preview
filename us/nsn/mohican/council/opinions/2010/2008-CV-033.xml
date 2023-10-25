@@ -8,9 +8,37 @@
       <citation type="res" url="./2008-CV-033.pdf">Case No. 2008-CV-033</citation>
     </citations>
   </meta>
-  <container>
-    <text>This is an appeal of an eviction trial that concluded on April 23, 2009. On July 22, 2009, the Honorable Robert Miller Jr. dismissed the eviction action against Beverly Jacobs.</text>
-  </container>
+  <text>
+    <div class="opinion-heading">
+      <caption>
+        <h4 class="center">Stockbridge-Munsee Tribal Court</h4>
+      </caption>
+      <hr class="dashed-hr"/>
+      <div class="container">
+        <div class="column">
+          <div class="row">
+            <span class="left">Stockbridge-Munsee Community, On Behalf of the Division of Community Housing,</span>
+            <span class="right">Appellant,</span>
+          </div>
+          <div class="row">
+            <span class="center">-v-</span>
+          </div>
+          <div class="row">
+            <span class="left">Beverly Jacobs,</span>
+            <span class="right">Respondent,</span>
+          </div>
+        </div>
+        <div class="column">
+          <div class="centered-content">
+            <span>Case No.: 2008-CV-033</span>
+            <span>Decision on Respondent's motion for Summary Dismissal of Appeal</span>
+          </div>
+        </div>
+      </div>
+      <hr class="dashed-hr"/>
+    </div>
+  </text>
+  <text>This is an appeal of an eviction trial that concluded on April 23, 2009. On July 22, 2009, the Honorable Robert Miller Jr. dismissed the eviction action against Beverly Jacobs.</text>
   <container>
     <heading>History</heading>
     <text>On August 10, 2009, Plaintiff/Petitioner, the Division of Community Housing, appealed that decision alleging the Trial Court committed an error of law in interpreting Section 21(1) as applying to the actions of Tribal Police in seeking a search warrant from the Shawano County Court.</text>

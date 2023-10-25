@@ -8,9 +8,37 @@
       <citation type="res" url="./2015-AP-2014-CV-0012.pdf">Case No. 2015-AP-2014-CV-0012</citation>
     </citations>
   </meta>
-  <container>
-    <text>This case has come before the Stockbridge-Munsee Court of Appeals, Appellate Court Judges Chad Hendricks, Stephan Grochowski, and Marianne Higgins presiding.</text>
-  </container>
+  <text>
+    <div class="opinion-heading">
+      <caption>
+        <h4 class="center">Stockbridge-Munsee Court of Appeals</h4>
+      </caption>
+      <hr class="dashed-hr"/>
+      <div class="container">
+        <div class="column">
+          <div class="row">
+            <span class="left">Jeff Vele,</span>
+            <span class="right">Appellant,</span>
+          </div>
+          <div class="row">
+            <span class="center">-v-</span>
+          </div>
+          <div class="row">
+            <span class="left">Jo Ann Schedler,</span>
+            <span class="right">Respondent,</span>
+          </div>
+        </div>
+        <div class="column">
+          <div class="centered-content">
+            <span>Case No.: 2015-AP-2014-CV-0012</span>
+            <span>Decision</span>
+          </div>
+        </div>
+      </div>
+      <hr class="dashed-hr"/>
+    </div>
+  </text>
+  <text>This case has come before the Stockbridge-Munsee Court of Appeals, Appellate Court Judges Chad Hendricks, Stephan Grochowski, and Marianne Higgins presiding.</text>
   <container>
     <heading>INTRODUCTION</heading>
     <text>Jeff Vele appeals an order of the Stockbridge-Munsee Tribal Court (hereinafter "SMTC" ) finding him guilty of making a libelous statement against Jo Ann Schedler in the Mohican News.</text>
