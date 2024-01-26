@@ -9,8 +9,8 @@
         <volume start="PRP"/>
       </volumes>
     </print>
-    <recency through="2022-02-16">
-      <doc id="Stockbridge-Munsee Tribal Council Res. No. 026-22" type="resolution"/>
+    <recency through="2024-01-02">
+      <doc id="Stockbridge-Munsee Tribal Council Res. No. 009-24" type="resolution"/>
     </recency>
   </meta>
   <xi:include href="./GOV.xml"/>
@@ -30,4 +30,6 @@
   <xi:include href="./BUS.xml"/>
   <xi:include href="./TAX.xml"/>
   <xi:include href="./attachments/index.xml"/>
+  <annotation path="" type="Legislative History" history="false" dest="container" app="2024-01-02" eff="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 009-24">Resolution No. 009-24</cite>, adopted January 2, 2024</annotation>
+  <annotation app="2024-01-02" doc="Stockbridge-Munsee Tribal Council Res. No. 009-24" eff="2024-01-02" path="" type="History" display="false"/>
 </document>
