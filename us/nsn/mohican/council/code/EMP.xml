@@ -241,7 +241,7 @@
     <section>
       <num>EMP.01.04</num>
       <heading>Other Rights</heading>
-      <text>The rights under this section are listed as employee rights, but are not subject to grievances under <cite path="§EMP.01.05">Section EMP.01.05</cite>.</text>
+      <text>The rights under this section are listed as employee rights, but are not subject to grievances under <cite path="|EMP.01.05">Section EMP.01.05</cite>.</text>
       <para>
         <num>(a)</num>
         <text>Employees shall be subject to the Tribal Fair Labor and Standards Ordinance.</text>
@@ -270,7 +270,7 @@
         <text>As a part of the Stockbridge-Munsee Community's commitment to protect the rights of its employees and promote a stable working environment, the following appeal process is made available to each employee:</text>
         <para>
           <num>(1)</num>
-          <text>Only violations of those employee rights enumerated in <cite path="§EMP.01.03">Section EMP.01.03</cite> of this Ordinance are appealable to the Tribal Court.  All other issues must be handled through the applicable internal dispute resolution process, which may be a grievance process or an employee mediation panel, as provided for in the Employment Manual.  The internal dispute resolution process shall be the final recourse for all issues not expressly enumerated in <cite path="§EMP.01.03">Section EMP.01.03</cite>.</text>
+          <text>Only violations of those employee rights enumerated in <cite path="|EMP.01.03">Section EMP.01.03</cite> of this Ordinance are appealable to the Tribal Court.  All other issues must be handled through the applicable internal dispute resolution process, which may be a grievance process or an employee mediation panel, as provided for in the Employment Manual.  The internal dispute resolution process shall be the final recourse for all issues not expressly enumerated in <cite path="|EMP.01.03">Section EMP.01.03</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -309,7 +309,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A statement identifying which of the enumerated rights under <cite path="§EMP.01.03">Section EMP.01.03</cite> has been violated.</text>
+          <text>A statement identifying which of the enumerated rights under <cite path="|EMP.01.03">Section EMP.01.03</cite> has been violated.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -334,7 +334,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>At the trial, the petitioner shall carry the burden of showing by a preponderance of the evidence that a violation of the rights enumerated in <cite path="§EMP.01.03">Section EMP.01.03</cite> occurred.</text>
+        <text>At the trial, the petitioner shall carry the burden of showing by a preponderance of the evidence that a violation of the rights enumerated in <cite path="|EMP.01.03">Section EMP.01.03</cite> occurred.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -354,7 +354,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Only for claims filed within the Statute of Limitations, the Stockbridge-Munsee Community provides a limited waiver of sovereign immunity for the purposes of permitting claims arising under <cite path="§EMP.01.03">Section EMP.01.03</cite> and allowing only those remedies identified in <cite path="§EMP.01.07">subsection (f)</cite> above.</text>
+        <text>Only for claims filed within the Statute of Limitations, the Stockbridge-Munsee Community provides a limited waiver of sovereign immunity for the purposes of permitting claims arising under <cite path="|EMP.01.03">Section EMP.01.03</cite> and allowing only those remedies identified in <cite path="|EMP.01.07">subsection (f)</cite> above.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -410,14 +410,14 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The Tribe, through the Tribal Prosecutor, has the authority to enforce the provisions of <cite path="§EMP.01.08">Section EMP.01.08</cite> through Tribal Court, and the Tribal Court has jurisdiction relating to enforcement of <cite path="§EMP.01.08">Section EMP.01.08</cite>.  In addition to other remedies available, the Court may:</text>
+        <text>The Tribe, through the Tribal Prosecutor, has the authority to enforce the provisions of <cite path="|EMP.01.08">Section EMP.01.08</cite> through Tribal Court, and the Tribal Court has jurisdiction relating to enforcement of <cite path="|EMP.01.08">Section EMP.01.08</cite>.  In addition to other remedies available, the Court may:</text>
         <para>
           <num>(1)</num>
-          <text>Order injunctive and emergency injunctive relief to the Tribe or individuals for violations or threatened violations of <cite path="§EMP.01.08">Section EMP.01.08</cite>; and,</text>
+          <text>Order injunctive and emergency injunctive relief to the Tribe or individuals for violations or threatened violations of <cite path="|EMP.01.08">Section EMP.01.08</cite>; and,</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Award to the Tribe actual damages, including costs and reasonable attorney fees resulting from a violation or threatened violation of <cite path="§EMP.01.08">Section EMP.01.08</cite>; and,</text>
+          <text>Award to the Tribe actual damages, including costs and reasonable attorney fees resulting from a violation or threatened violation of <cite path="|EMP.01.08">Section EMP.01.08</cite>; and,</text>
         </para>
         <para>
           <num>(3)</num>
@@ -524,7 +524,7 @@
       <heading>Establishing Preference</heading>
       <para>
         <num>(a)</num>
-        <text>Preference shall be given according to <cite path="§EMP.02.04">Section EMP.02.04</cite> below when it is established that the employee or applicant meets minimum qualifications as stated in the job description or the job announcement.</text>
+        <text>Preference shall be given according to <cite path="|EMP.02.04">Section EMP.02.04</cite> below when it is established that the employee or applicant meets minimum qualifications as stated in the job description or the job announcement.</text>
         <para>
           <num>(1)</num>
           <text>If the person has the minimum qualifications as stated, he or she is eligible for the position and shall not be denied if another person at a lower preference has higher qualifications than are necessary for the position.</text>
@@ -557,7 +557,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The following order of preference shall be adhered to when hiring for employment positions or when involuntary layoffs occur, except that <cite path="§EMP.02.04|(c)">subsection (c)</cite> shall apply for federally funded positions:</text>
+        <text>The following order of preference shall be adhered to when hiring for employment positions or when involuntary layoffs occur, except that <cite path="|EMP.02.04|(c)">subsection (c)</cite> shall apply for federally funded positions:</text>
         <para>
           <num>(1)</num>
           <text>Enrolled Member.</text>
@@ -844,7 +844,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Exempt employees are not covered by the provisions of <cite path="§EMP.03.04">Section EMP.03.04</cite> of this Ordinance.</text>
+        <text>Exempt employees are not covered by the provisions of <cite path="|EMP.03.04">Section EMP.03.04</cite> of this Ordinance.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 55, §55.5</annotation>
@@ -1459,7 +1459,7 @@
       <para>
         <num>(d)</num>
         <heading>Testimony.</heading>
-        <text>Any physician, chiropractor, psychologist, podiatrist or vocational expert who is present at any examination under <cite path="§EMP.04.07">subsection (b)</cite> or attended to a worker for any condition or complaint reasonably related to the condition for which the worker claims compensation:</text>
+        <text>Any physician, chiropractor, psychologist, podiatrist or vocational expert who is present at any examination under <cite path="|EMP.04.07">subsection (b)</cite> or attended to a worker for any condition or complaint reasonably related to the condition for which the worker claims compensation:</text>
         <para>
           <num>(1)</num>
           <text>May be required to testify as to the results of their examination.</text>
@@ -1916,7 +1916,7 @@
         <text>Benefits shall be due starting after the third day of disability, excluding Sundays unless the employee regularly works Sundays.  If the disability exists beyond 7 days, the employee may receive benefits for the first 3 days.</text>
         <para>
           <num>(1)</num>
-          <text>Temporary Total Disability.  If the injury causes temporary total disability, the worker shall receive temporary total disability benefits. These benefits are two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in <cite path="§EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
+          <text>Temporary Total Disability.  If the injury causes temporary total disability, the worker shall receive temporary total disability benefits. These benefits are two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in <cite path="|EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
           <para>
             <num>(A)</num>
             <text>There is no limitation on the number of weeks that a worker can receive temporary disability benefits, unless limited elsewhere in this Ordinance.</text>
@@ -1934,7 +1934,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>is given a limited release to return to light-duty work and the employer can accommodate the restrictions (the limitations in <cite path="§EMP.04.18|(c)|(2)|(C)">subsections (c)(2)(C)</cite> and <cite path="§EMP.04.18|(c)|(2)|(D)">(c)(2)(D)</cite> of this Section shall apply in relation to the worker's temporary total disability benefits); or</text>
+              <text>is given a limited release to return to light-duty work and the employer can accommodate the restrictions (the limitations in <cite path="|EMP.04.18|(c)|(2)|(C)">subsections (c)(2)(C)</cite> and <cite path="|EMP.04.18|(c)|(2)|(D)">(c)(2)(D)</cite> of this Section shall apply in relation to the worker's temporary total disability benefits); or</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -1947,7 +1947,7 @@
           <text>Temporary Partial Disability.  If the injury causes temporary partial disability, the worker shall receive such proportion of temporary total disability benefits as the actual wage loss of the worker bears to the worker's average weekly wage at the time of the injury.</text>
           <para>
             <num>(A)</num>
-            <text>Benefits are subject to the maximum and minimum amounts discussed in <cite path="§EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
+            <text>Benefits are subject to the maximum and minimum amounts discussed in <cite path="|EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -1966,7 +1966,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>If the worker refuses the offer of light-duty work, the worker is only entitled to temporary partial disability benefits based on the proportional wage loss as discussed in <cite path="§EMP.04.18|(c)|(2)|(C)|(ii)">subsection (c)(2)(C)(ii)</cite> above.</text>
+              <text>If the worker refuses the offer of light-duty work, the worker is only entitled to temporary partial disability benefits based on the proportional wage loss as discussed in <cite path="|EMP.04.18|(c)|(2)|(C)|(ii)">subsection (c)(2)(C)(ii)</cite> above.</text>
             </para>
           </para>
           <para>
@@ -1984,7 +1984,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Permanent Total Disability. If there is total physical impairment, the permanent total disability benefit rate is the same as that for temporary total disability or two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in <cite path="§EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
+          <text>Permanent Total Disability. If there is total physical impairment, the permanent total disability benefit rate is the same as that for temporary total disability or two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in <cite path="|EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
           <para>
             <num>(A)</num>
             <text>The worker may be eligible for a supplemental benefit to the permanent total disability benefit of up to $233 per week. Eligibility for and amount of such a supplemental benefit is described in <cite doc="Wis. Stat." path="§102.44">Wis. Stat. § 102.44(1)</cite>.</text>
@@ -1996,7 +1996,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Permanent Partial Disability. If the permanent effects result in less than total impairment, permanent partial disability benefits are paid at the rate of two-thirds of the average weekly wage for the period provided in the permanent partial disability schedule.  These amounts are subject to the maximum and minimum amounts discussed above in <cite path="§EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
+          <text>Permanent Partial Disability. If the permanent effects result in less than total impairment, permanent partial disability benefits are paid at the rate of two-thirds of the average weekly wage for the period provided in the permanent partial disability schedule.  These amounts are subject to the maximum and minimum amounts discussed above in <cite path="|EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
           <para>
             <num>(A)</num>
             <text>The permanent partial disability schedule sets out the number of weeks that a worker receives further benefits at the end of the healing period.  The time periods in the schedule vary depending on the location and degree of the permanent effects.  The schedule can be found in <cite doc="Wis. Stat." path="§102.52">Wis. Stat. § 102.52</cite>. The application of the permanent partial disability schedule is discussed in <cite doc="Wis. Stat." path="§102.53">Wis. Stat. §§ 102.53</cite> to <cite doc="Wis. Stat." path="§102.56">102.56</cite>.</text>
@@ -2012,7 +2012,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Mental Injury.  Benefits for mental injuries shall be paid for a maximum of two (2) years at the rate of two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in <cite path="§EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
+          <text>Mental Injury.  Benefits for mental injuries shall be paid for a maximum of two (2) years at the rate of two-thirds of the average weekly wage, subject to the maximum and minimum amounts discussed above in <cite path="|EMP.04.18|(b)|(1)">subsection (b)(1)</cite> of this Section.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -2104,7 +2104,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>The time frames, which are provided in <cite path="§EMP.04.19|(d)">subsection (d)</cite>above, should be lengthened appropriately for workers who are employed on a part-time basis.</text>
+          <text>The time frames, which are provided in <cite path="|EMP.04.19|(d)">subsection (d)</cite>above, should be lengthened appropriately for workers who are employed on a part-time basis.</text>
         </para>
       </para>
       <para>
@@ -2331,7 +2331,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Payments withheld. In addition to the remedies available in <cite path="§EMP.05.06">Section EMP.05.06</cite>, the Tribe, has the authority to withhold payment to contractors/employers if the Tribe in good faith believes that an contractor/employer is not complying with any provision of this Ordinance.</text>
+        <text>Payments withheld. In addition to the remedies available in <cite path="|EMP.05.06">Section EMP.05.06</cite>, the Tribe, has the authority to withhold payment to contractors/employers if the Tribe in good faith believes that an contractor/employer is not complying with any provision of this Ordinance.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 55-A, §55-A.4</annotation>
@@ -2366,7 +2366,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In addition to the requirements in <cite path="§EMP.05.06|(b)">Section EMP.05.06(b)</cite>, petitioners must comply with the filing requirements contained in the Stockbridge-Munsee Tribal Court Rules of Civil Procedure.</text>
+        <text>In addition to the requirements in <cite path="|EMP.05.06|(b)">Section EMP.05.06(b)</cite>, petitioners must comply with the filing requirements contained in the Stockbridge-Munsee Tribal Court Rules of Civil Procedure.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -2376,7 +2376,7 @@
           <text>If the employee has been underpaid, the employer may be ordered to pay the difference in the wage paid to the employee and Prevailing wage.</text>
           <para>
             <num>(A)</num>
-            <text>The Court may also order punitive damages not to exceed three times the amount of <cite path="§EMP.05.06|(d)|(1)">Section EMP.05.06(d)(1)</cite>.</text>
+            <text>The Court may also order punitive damages not to exceed three times the amount of <cite path="|EMP.05.06|(d)|(1)">Section EMP.05.06(d)(1)</cite>.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -2393,7 +2393,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>For any other violations, the Court may order any of the remedies from <cite path="§EMP.05.06|(d)|(1)|(B)">Section EMP.05.06(d)(1)(B)</cite> - <cite path="§EMP.05.06|(d)|(1)|(D)">(D)</cite> or impose fines and interest not to exceed $500.00 per day.</text>
+          <text>For any other violations, the Court may order any of the remedies from <cite path="|EMP.05.06|(d)|(1)|(B)">Section EMP.05.06(d)(1)(B)</cite> - <cite path="|EMP.05.06|(d)|(1)|(D)">(D)</cite> or impose fines and interest not to exceed $500.00 per day.</text>
         </para>
       </para>
       <para>
