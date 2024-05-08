@@ -64,7 +64,7 @@
     <section>
       <num>EDU.02.04</num>
       <heading>Interpretation</heading>
-      <text>This Ordinance shall be liberally construed to effectuate the purpose stated in <cite doc="Stockbridge-Munsee Tribal Code" path="|EDU.02.01">Section EDU.02.01</cite>.</text>
+      <text>This Ordinance shall be liberally construed to effectuate the purpose stated in <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.02.01">Section EDU.02.01</cite>.</text>
     </section>
   </codify:replace>
   <codify:replace path="EDU.02.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|EDU.02.05">
@@ -128,7 +128,7 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his/her agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="|EDU.02.07">Section EDU.02.07</cite>.)</text>
+        <text>"Truancy" means any absence by any child of part or all of one or more days from school during which the school attendance officer, or his/her agent, has not been notified of the excused absence by the person having the absent pupil under his or her control during non-school hours.  "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the state and tribe's attendance laws. (<cite doc="Wis. Stat." path="§118.15">Wis. Stat. Sec.118.15</cite> and <cite doc="Stockbridge-Munsee Tribal Code" path="§EDU.02.07">Section EDU.02.07</cite>.)</text>
       </para>
       <para>
         <num>(k)</num>
