@@ -16,11 +16,11 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="cb53e07d307fce28bbd793b4496461e994c335bc"/>
+        <repository name="mohicanlaw/law-xml" commit="568ba53303663657a345584cf53eca53ba916d22"/>
       </repositories>
-      <platform version="2.13.6" reproducible="false"/>
-      <build-date>2024-05-08</build-date>
-      <codified-date>2024-01-02</codified-date>
+      <platform version="2.13.11" reproducible="false"/>
+      <build-date>2024-08-13</build-date>
+      <codified-date>2024-08-06</codified-date>
     </build>
   </meta>
   <text>Welcome to the new home of the Stockbridge-Munsee Tribal Code (previously referred to as the Tribal Ordinances). In 2021, the Tribal Ordinances were reorganized into the Stockbridge-Munsee Tribal Code. Ordinance chapters were renumbered and collected by subject into Titles with three-letter abbreviations.</text>
@@ -77,27 +77,4 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/1968/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
-  <collection name="us/nsn/mohican/council/opinions">
-    <heading>Tribal Court of Appeals Opinions</heading>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2023/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2022/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2021/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2020/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2019/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2018/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2017/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2016/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2015/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2014/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2013/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2012/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2011/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2010/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2008/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2006/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2003/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2002/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2000/index.xml"/>
-    <xi:include href="./us/nsn/mohican/courts/appeals/opinions/1997/index.xml"/>
-  </collection>
 </library>
