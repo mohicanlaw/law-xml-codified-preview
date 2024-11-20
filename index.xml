@@ -16,10 +16,10 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="2f97f4ddd842f38278a19ad750abc3c405e0d168"/>
+        <repository name="mohicanlaw/law-xml" commit="c58bfb39d4d56ad605a0c76f2edefe346ebf719e"/>
       </repositories>
       <platform version="2.14.5" reproducible="false"/>
-      <build-date>2024-11-01</build-date>
+      <build-date>2024-11-20</build-date>
       <codified-date>2024-08-06</codified-date>
     </build>
   </meta>
@@ -76,9 +76,8 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/1971/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/1968/index.xml"/>
   </collection>
-  <collection name="us/nsn/mohican/police-and-fire/bylaws">
+  <collection name="us/nsn/mohican/council/bylaws">
     <heading>Committee Bylaws.</heading>
-    <xi:include href="./us/nsn/mohican/police-and-fire/index.xml"/>
     <xi:include href="./us/nsn/mohican/cultural-affairs/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
