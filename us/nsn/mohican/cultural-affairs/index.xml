@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" name="2024">
-  <heading>Cultural Affairs Committee</heading>
+  <heading>CULTURAL AFFAIRS COMMITTEE BY-LAWS</heading>
   <container>
     <prefix>Article</prefix>
     <num>1</num>
@@ -15,7 +15,7 @@
     </para>
     <para>
       <num>(c)</num>
-      <text>Authority.  This entity was established under Tribal Resolution #040-24 on September 3, 2024.  To the extent any provision in these By-Laws conflicts with a tribal ordinance, the terms of the ordinance shall govern, unless otherwise determined by the Tribal Council.</text>
+      <text>Authority.  This entity was established under Tribal Resolution #040-24 on September 3, 2024, and an amendment to the By-Laws was adopted by Tribal Resolution #008-25 on December 3, 2024.  To the extent any provision in these By-Laws conflicts with a tribal ordinance, the terms of the ordinance shall govern, unless otherwise determined by the Tribal Council.</text>
     </para>
     <para>
       <num>(d)</num>
@@ -44,6 +44,10 @@
       <para>
         <num>(4)</num>
         <text>The Committee shall participate in the peer review process for learning/materials related to development of curriculums in all areas within the Department of Cultural Affairs to ensure accuracy of content; as outlined in the approved policy.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Committee shall provide suggestions as requested by staff on Tribal Historic Preservation plans and protocols regarding the disposition of repatriated human remains, funerary objects, and other cultural items subject to Native American Graves Protection and Repatriation Act (NAGPRA) and regarding the protection of cultural sites under Section 106 of the National Historic Preservation Act.</text>
       </para>
     </para>
     <para>
@@ -104,7 +108,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Committee Members shall be appointed for staggered three (3) year terms. Terms shall begin November 1<sup>st</sup>.</text>
+        <text>Committee Members shall be appointed for staggered three (3) year terms. Terms shall begin November 1st.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -163,7 +167,7 @@
   <container>
     <prefix>Article</prefix>
     <num>4</num>
-    <heading>Officers and Their Duties.</heading>
+    <heading>Officers and their Duties</heading>
     <para>
       <num>(a)</num>
       <text>This Committee shall have three (3) officers: Chairperson, Vice-Chairperson and Secretary.</text>
@@ -240,7 +244,7 @@
     </para>
     <para>
       <num>(d)</num>
-      <text>Open Meetings.  All meetings of the Committee shall be open to any tribal member. Meetings shall <strong><u>be in-person</u></strong> unless otherwise provided for in a tribal ordinance or through a Tribal Council Directive.</text>
+      <text>Open Meetings.  All meetings of the Committee shall be open to any tribal member. Meetings shall be in-person unless otherwise provided for in a tribal ordinance or through a Tribal Council Directive.</text>
     </para>
     <para>
       <num>(e)</num>
@@ -331,6 +335,10 @@
     <heading>Amendments</heading>
     <para>
       <num>(a)</num>
+      <text>Any proposed amendments shall be reviewed by the Tribe's Legal Department for legal issues prior to action by the Committee.</text>
+    </para>
+    <para>
+      <num>(b)</num>
       <text>Amendments to these By-Laws shall be recommended by the Committee to the Stockbridge-Munsee Tribal Council at a regular meeting. Amendments are effective upon adoption by the Committee and approval by the Tribal Council.</text>
     </para>
   </container>

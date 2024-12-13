@@ -16,10 +16,10 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="b98df7c35bb3589c99da32864e77fd87cfd74355"/>
+        <repository name="mohicanlaw/law-xml" commit="7c1623763354bbd0c550ff152708b39c0ba183d6"/>
       </repositories>
       <platform version="2.14.5" reproducible="false"/>
-      <build-date>2024-11-27</build-date>
+      <build-date>2024-12-13</build-date>
       <codified-date>2024-08-06</codified-date>
     </build>
   </meta>
@@ -29,7 +29,7 @@
   <xi:include href="./us/nsn/mohican/council/constitution/index.xml"/>
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
   <collection name="us/nsn/mohican/council/resolutions">
-    <heading>Tribal Council Ordinance Resolutions.</heading>
+    <heading>Tribal Council Ordinance and By-law Resolutions.</heading>
     <xi:include href="./us/nsn/mohican/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2021/index.xml"/>
@@ -77,7 +77,7 @@
     <xi:include href="./us/nsn/mohican/council/resolutions/1968/index.xml"/>
   </collection>
   <collection name="us/nsn/mohican/council/bylaws">
-    <heading>Committee Bylaws.</heading>
+    <heading>Committee By-laws.</heading>
     <xi:include href="./us/nsn/mohican/cultural-affairs/index.xml"/>
   </collection>
   <xi:include href="./us/nsn/mohican/council/charter/index.xml"/>
