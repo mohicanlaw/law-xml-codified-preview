@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Council Bylaws for Ella Besaw Community Advisory Committee">
   <meta>
-    <effective>2024-01-01</effective>
+    <effective>2025-01-07</effective>
+    <recency through="2025-01-07">
+      <doc id="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="resolution"/>
+    </recency>
   </meta>
   <heading>ELLA BESAW COMMUNITY ADVISORY COMMITTEE BY-LAWS</heading>
   <section>
@@ -24,7 +27,9 @@
       <num>(d)</num>
       <text>Communication to Committee.  Communications to the Committee should be sent to the Committee's attention and submitted to the Tribal Secretary.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -102,7 +107,9 @@
         <text>Neither the Committee nor an individual member of the Committee shall have any authority to determine who may be a resident of the Ella Besaw Center.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -184,7 +191,9 @@
       <num>(d)</num>
       <text>Resignation.  Resignations from the Committee shall be in writing and presented to the Tribal Council, via the Tribal Council Secretary and the Committee Chair.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -210,7 +219,9 @@
       <num>(e)</num>
       <text>Officer Selection Process and Term.  The officers shall serve terms of one (1) year and shall be elected by a majority vote of the Committee. Terms of office for the officers shall run consistent with the timing for terms of appointment. In the event of a vacancy, the successor shall be elected by a majority vote of the Committee for the duration of the unexpired term.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -248,7 +259,9 @@
       <num>(d)</num>
       <text>Committee Members shall follow proper protocol and communicate with the Tribal Council only through the Committee Chairperson or as otherwise determined by a vote of the Committee.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -326,7 +339,9 @@
       <num>(l)</num>
       <text>Grievance.  A committee member, staff or attendee may file a grievance related to Committee Member Conduct, said grievance to be filed with the Tribal Council.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -336,7 +351,9 @@
       <num>(a)</num>
       <text>All Committee Members shall receive a stipend to be determined by the Tribal Council.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -354,7 +371,9 @@
       <num>(c)</num>
       <text>Reporting.  The Committee shall report the minutes to the Tribal Council. Reporting of the minutes shall be made within a reasonable time after a meeting is held and presented to the Tribal Council at a regular meeting in person by a member of the Committee, or as the Tribal Council and the Committee agree.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Article</prefix>
@@ -368,6 +387,8 @@
       <num>(b)</num>
       <text>Amendments to these By-Laws shall be recommended by the Committee to the Stockbridge-Munsee Tribal Council at a regular meeting. Amendments are effective upon adoption by the Committee and approval by the Tribal Council.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 013-25" type="History"/>
+    </annotations>
   </section>
 </document>
