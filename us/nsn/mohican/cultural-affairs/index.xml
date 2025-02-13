@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Council Bylaws for Cultural Affairs Committee" name="2024">
+  <heading>CULTURAL AFFAIRS COMMITTEE BY-LAWS</heading>
   <meta>
     <effective>2024-09-03</effective>
+    <history>
+      <adopted>2024-09-03</adopted>
+    </history>
     <recency through="2025-01-07">
       <doc id="Stockbridge-Munsee Tribal Council Meeting 2025-01-07" type="meeting"/>
     </recency>
   </meta>
-  <heading>CULTURAL AFFAIRS COMMITTEE BY-LAWS</heading>
   <section>
     <prefix>Article</prefix>
     <num>1</num>
@@ -29,7 +32,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Meeting 2024-12-03" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
     </annotations>
   </section>
   <section>
@@ -106,7 +109,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Meeting 2024-12-03" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
     </annotations>
   </section>
   <section>
@@ -179,7 +182,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Meeting 2024-12-03" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
     </annotations>
   </section>
   <section>
@@ -208,7 +211,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Meeting 2024-12-03" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
     </annotations>
   </section>
   <section>
@@ -330,7 +333,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Meeting 2024-12-03" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
     </annotations>
   </section>
   <section>
@@ -379,7 +382,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Meeting 2024-12-03" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
     </annotations>
   </section>
 </document>
