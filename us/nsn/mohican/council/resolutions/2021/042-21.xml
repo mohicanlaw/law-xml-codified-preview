@@ -1279,5 +1279,5 @@
       </para>
     </section>
   </codify:replace>
-  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.01">29. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 042-21">Resolution No. 042-021</cite>, adopted August 3, 2021.</codify:annotation>
+  <codify:annotation path="ENV.01" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.01|annos">29. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 042-21">Resolution No. 042-021</cite>, adopted August 3, 2021.</codify:annotation>
 </document>

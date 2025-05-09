@@ -55,7 +55,7 @@
       </text>
     </recital>
   </recitals>
-  <codify:find-replace path="SAF.05" count="1" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.01">
+  <codify:find-replace path="SAF.05" count="1" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.01|annos">
     <find>Food Service Code</find>
     <replace>Food Ordinance</replace>
   </codify:find-replace>
@@ -721,5 +721,5 @@
       <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.13</annotation>
     </section>
   </codify:insert>
-  <codify:annotation path="SAF.05" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.01">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 034-18">Resolution No.034-18</cite>, adopted April 17, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
+  <codify:annotation path="SAF.05" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|SAF.05.01|annos">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 034-18">Resolution No.034-18</cite>, adopted April 17, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</codify:annotation>
 </document>

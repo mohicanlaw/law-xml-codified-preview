@@ -21,7 +21,7 @@
       <text>Recodified as <cite doc="Stockbridge-Munsee Tribal Code" path="ADM.03">ADM.03</cite>.</text>
     </container>
   </codify:replace>
-  <codify:insert path="ADM" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ADM.03.01">
+  <codify:insert path="ADM" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ADM.03.01|annos">
     <container>
       <prefix>Chapter</prefix>
       <num>ADM.03</num>
