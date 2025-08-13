@@ -16,10 +16,10 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="7c2345daed1511d35c0334a82412b97870bbfd30"/>
+        <repository name="mohicanlaw/law-xml" commit="8908460eb7eabce1d92f6a43be8e4be1b6350c6d"/>
       </repositories>
-      <platform version="2.16.4" reproducible="false"/>
-      <build-date>2025-07-16</build-date>
+      <platform version="2.17.3" reproducible="false"/>
+      <build-date>2025-08-13</build-date>
       <codified-date>2025-01-07</codified-date>
     </build>
   </meta>
@@ -89,7 +89,7 @@
   </collection>
   <collection name="us/nsn/mohican/courts/appeals/opinions">
     <heading>Tribal Court of Appeals Opinions</heading>
-    <text>In addition to the opinions, view the Tribal Court of Appeals <a href="/us/nsn/mohican/council/code/TCT.03">Rules</a> or <a href="https://www.mohican.com/government/court-of-appeals/">Forms.</a></text>
+    <text>In addition to the opinions, view the Tribal Court of Appeals <a href="/us/nsn/mohican/council/code/TCT.03">Rules</a> or <a href="https://mohican.com/judiciary/">Forms.</a></text>
     <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2023/index.xml"/>
     <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2022/index.xml"/>
     <xi:include href="./us/nsn/mohican/courts/appeals/opinions/2021/index.xml"/>
