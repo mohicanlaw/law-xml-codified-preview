@@ -18,9 +18,9 @@
       <repositories>
         <repository name="mohicanlaw/law-xml" commit="8908460eb7eabce1d92f6a43be8e4be1b6350c6d"/>
       </repositories>
-      <platform version="2.17.3" reproducible="false"/>
-      <build-date>2025-08-13</build-date>
-      <codified-date>2025-01-07</codified-date>
+      <platform version="2.17.9" reproducible="false"/>
+      <build-date>2025-10-08</build-date>
+      <codified-date>2025-09-02</codified-date>
     </build>
   </meta>
   <text>Welcome to the new home of the Stockbridge-Munsee Tribal Code (previously referred to as the Tribal Ordinances). In 2021, the Tribal Ordinances were reorganized into the Stockbridge-Munsee Tribal Code. Ordinance chapters were renumbered and collected by subject into Titles with three-letter abbreviations.</text>
