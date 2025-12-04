@@ -30,6 +30,4 @@
   <xi:include href="./BUS.xml"/>
   <xi:include href="./TAX.xml"/>
   <xi:include href="./attachments/index.xml"/>
-  <annotation path="" type="Legislative History" history="false" dest="container" app="2025-09-02" eff="2025-09-02" doc="Stockbridge-Munsee Tribal Council Res. No. 055-25">12. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 055-25">Resolution No. 055-25</cite>, adopted September 2, 2025, approved by BIA November 19, 2025.</annotation>
-  <annotation app="2025-09-02" doc="Stockbridge-Munsee Tribal Council Res. No. 055-25" eff="2025-09-02" path="" type="History" display="false"/>
 </document>
