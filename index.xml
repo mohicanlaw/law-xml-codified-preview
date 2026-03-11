@@ -16,11 +16,11 @@
     <history-start>2021-01-28</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="mohicanlaw/law-xml" commit="4fab526d2bd67d90af2186450640c11836a63e3d"/>
+        <repository name="mohicanlaw/law-xml" commit="b1abae3566d66d4c9f2cfe69960c7130b6a7a998"/>
       </repositories>
-      <platform version="2.18.0" reproducible="false"/>
-      <build-date>2025-12-04</build-date>
-      <codified-date>2025-09-02</codified-date>
+      <platform version="2.18.17" reproducible="false"/>
+      <build-date>2026-03-11</build-date>
+      <codified-date>2026-02-04</codified-date>
     </build>
   </meta>
   <text>Welcome to the new home of the Stockbridge-Munsee Tribal Code (previously referred to as the Tribal Ordinances). In 2021, the Tribal Ordinances were reorganized into the Stockbridge-Munsee Tribal Code. Ordinance chapters were renumbered and collected by subject into Titles with three-letter abbreviations.</text>
@@ -30,6 +30,7 @@
   <xi:include href="./us/nsn/mohican/council/code/index.xml"/>
   <collection name="us/nsn/mohican/council/resolutions">
     <heading>Tribal Council Ordinance and By-Law Resolutions.</heading>
+    <xi:include href="./us/nsn/mohican/council/resolutions/2026/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2025/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2024/index.xml"/>
     <xi:include href="./us/nsn/mohican/council/resolutions/2022/index.xml"/>
