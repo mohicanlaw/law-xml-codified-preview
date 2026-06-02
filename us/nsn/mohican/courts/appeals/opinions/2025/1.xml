@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="2025 SMTCA 1">
+  <num>2025 SMTCA 1</num>
+  <heading>Sterling Schreiber, II vs. Joseph Miler, Chairman And Stockbridge-Munsee Judiciary Commission</heading>
+  <meta>
+    <effective>2025-12-18</effective>
+    <citations>
+      <citation type="reporter">2025 SMTCA 1</citation>
+      <citation type="opinion">Case No. 2025-AA-001</citation>
+    </citations>
+    <parties>
+      <party>
+        <name>Sterling Schreiber, II</name>
+        <designation>Petitioner/Appellee</designation>
+      </party>
+      <party>
+        <name>Joseph Miler, Chairman And Stockbridge-Munsee Judiciary Commission</name>
+        <designation>Respondents/Appellees</designation>
+      </party>
+    </parties>
+    <appeal_panel_judges>Smith, C.J., Lochen, Justice, Sharfstein, Special Justice</appeal_panel_judges>
+    <opinion_author>Sharfstein, Sp. J.</opinion_author>
+  </meta>
+  <container name="INTRODUCTION">
+    <num>I.</num>
+    <heading>INTRODUCTION</heading>
+    <para>
+      <num>¶1</num>
+      <text>On April 11, 2025, the Stockbridge-Munsee Judiciary Commission ("Commission") issued a decision disciplining Petitioner/Appellee Sterling Schreiber II ("Appellee"), who serves as associate judge on the Stockbridge-Munsee Tribal Court ("Tribal Court").  Judge Schreiber then filed an administrative appeal to the Tribal Court, Case No. 2025-AA-0001, naming the Commission and its chair, Joseph Miller, as respondents.  Judge Schreiber claimed that the Commission had denied him "a full and fair opportunity . . . to present a defense" in violation of Tribal Court Code Sections <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(C)">TCT.01.07(d)(5)(C)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(D)">TCT.01.07(d)(5)(D)</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(6)|(A)">TCT.01.07(d)(6)(A)</cite>.  On June 17, 2025, the Tribal Court ruled in Judge Schreiber's favor, reversing and remanding the case to the Commission.  The Commission and its chair (collectively "Appellants") now appeal, arguing that the Tribal Court lacked jurisdiction to hear Appellee's claims in the absence of an explicit provision in the Tribal Code authorizing appeals of the Judiciary Commission's decisions.  The Tribal Court's decision is AFFIRMED.</text>
+    </para>
+  </container>
+  <container name="FACTS AND PROCEDURAL HISTORY">
+    <num>II.</num>
+    <heading>FACTS AND PROCEDURAL HISTORY</heading>
+    <para>
+      <num>¶2</num>
+      <text>This case arises from a mishap of modern life, but implicates longstanding issues relating to judicial independence.  According to the Commission, on December 24, 2024, the Chief Judge of the Stockbridge-Munsee Tribal Court left a voicemail for someone with business before the court, "apparently did not hang up," and then proceeded to discuss that person with Appellee—an unguarded conversation caught on tape.  After listening to her voicemail, the subject of the two judges' conversation filed a complaint with the Commission.  Letter from Stockbridge-Munsee Judiciary Commission to Higgins &amp; Schreiber, Apr. 11, 2025.</text>
+    </para>
+    <para>
+      <num>¶3</num>
+      <text>According to the Tribal Court's review of the record, Appellant Miller emailed both the Chief Judge and Appellee on April 4, 2025, stating that there had been a complaint filed against them but not providing further details.  The email requested that they meet with the Commission the following week.  On April 11, the two judges met with three of the five commissioners.  At the start of the meeting, Appellant Miller signed and distributed the Commission's decision: a letter to the judges that laid out some basic facts about the complaint, announced a finding of culpability, and handed down two disciplinary measures: (1) recusal of both judges from a case currently pending in the Tribal Court and (2) "additional training concerning the professional responsibilities that attend being a judge," subject to approval by the Commission.  Appellee had no opportunity to see the complaint or defend himself before the Commission decided the case.  <u>Schreiber v. Miller</u>, Case No. 2025-AA-0001 (Stockbridge-Munsee Tribal Court, June 17, 2025).</text>
+    </para>
+    <para>
+      <num>¶4</num>
+      <text>On May 9, 2025, Appellee filed an administrative appeal to the Tribal Court, alleging that the Commission's process violated three Tribal Code provisions mandating how the Commission administers complaints and disciplines judges.  Specifically, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(C)">§TCT.01.07(d)(5)(C)</cite> directs that "[t]he Judiciary Commission shall provide the judge accused of judicial misconduct with a full and fair opportunity to provide a defense as part of any investigatory process."  Additionally, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(6)|(A)">§TCT.01.07(d)(6)(A)</cite> specifies that "[j]udicial discipline is warranted" upon a finding of misconduct "after a hearing on the matter in which the Chief Judge or Judge has received notice and an opportunity to be heard."  Finally, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(D)">§TCT.01.07(d)(5)(D)</cite> notes that the "Judiciary Commission shall issue a written report documenting its investigation and determination" "[a]t the conclusion of any investigation."</text>
+    </para>
+    <para>
+      <num>¶5</num>
+      <text>On June 4, 2025, Appellants filed a motion to dismiss, arguing that "[n]owhere in the . . . Tribal Code . . . provides the Court with subject-matter jurisdiction over the 'Administrative Appeal' filed by Petitioner."  Additionally, Appellants argued that to the extent that Appellee was alleging a violation of his due process rights, such claims would necessarily fail because Tribal Code <cite doc="Stockbridge-Munsee Tribal Code" path="|EMP.01.01">§EMP.01.01 </cite>states that "Stockbridge-Munsee Community employees do not have property rights in employment."<fn path="|footnotes|2">2</fn></text>
+    </para>
+    <para>
+      <num>¶6</num>
+      <text>Without specifically addressing Appellants' motion, the Tribal Court held in a decision dated June 17, 2025, that "the Judiciary Commission failed to follow the clear requirements of <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(C)">TCT.01.07(d)(5)(C)</cite> and (D)" and that "both judges must be provided with the evidence obtained by the Commission and provided a full and fair opportunity to present a defense to the allegations made."  Reversing and remanding the Commission's decision, the Tribal Court encouraged Appellant Miller to recuse himself in further proceedings.  Chairman Miller and the Commission filed this appeal.</text>
+    </para>
+  </container>
+  <container name="Appealability of Judicial Discipline Decisions">
+    <num>III.</num>
+    <heading>Appealability of Judicial Discipline Decisions</heading>
+    <para>
+      <num>¶7</num>
+      <text>Appellants do not seek review of the Tribal Court's ruling on the merits.  Rather, the primary issue before this Court is jurisdictional:  whether Judiciary Commission decisions are appealable to the Tribal Court in the absence of express authorization in the Tribal Court Code.<fn path="|footnotes|3">3</fn>  <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.23|(a)">Section TCT.02.23(a)</cite> gives the Tribal Court "jurisdiction to hear appeals from tribal departments, panels, committees or agencies <em>when such appeals are authorized by tribal law</em> when a plaintiff has alleged a material error of law, a material error of fact, or an abuse of discretion by the tribal department, panel, committee or agency" (emphasis added).  The Code does not expressly grant judicial review of the Judiciary Commission's decisions, as it does for denials of elder/youth licenses by the Human Resources Department, <cite doc="Stockbridge-Munsee Tribal Code" path="|YAE.10.10|(g)">§YAE.10.10(g)</cite>; the Mohican Gaming Commission's orders of temporary closure of gaming facility operations, <cite doc="Stockbridge-Munsee Tribal Code" path="|GMG.01.09|(l)|(32)|(C)|(iii)">§GMG.01.09(l)(32)(C)(iii)</cite>; and final actions of the Tax Commission, §<cite doc="Stockbridge-Munsee Tribal Code" path="|TAX.01.13|(g)">§TAX.01.13(g)</cite> and (h).   Nor does the Code expressly preclude judicial review of the Judiciary Commission's decisions, as it does for decisions of the Stockbridge-Munsee Tribal Child Support Agency, <cite doc="Stockbridge-Munsee Tribal Code" path="|YAE.09.01|(c)">§YAE.09.01(c)</cite>—a provision that would be extraneous if appeals are "authorized by law" only when the Code specifies that they are allowed.  To answer the jurisdictional question at the heart of this case, the lack of express authorization of an appeal is not dispositive on its own.  Instead, this Court must turn to the Tribal Court Code sections relating to the Judiciary Commission's disciplinary procedures.</text>
+    </para>
+    <para>
+      <num>¶8</num>
+      <text>The Code provisions concerning the Commission, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07">§TCT.01.07</cite>, are "exempted from the rule of strict construction" and "shall be read and understood in a manner that gives full effect to the purposes for which it is enacted." <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02|(b)">§TCT.01.02(b)</cite>.  The Code enumerates several animating values, including protecting the Stockbridge-Munsee Community's "self-determination and self-governance," §<cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02|(a)|(1)">§TCT.01.02(a)(1)</cite> &amp; <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.02|(1)">TCT.02.02(1)</cite>; "afford[ing] all affected persons a fair, prompt and impartial hearing," §<cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.02|(a)|(2)">§TCT.01.02(a)(2)</cite> &amp; <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.02|(a)|(2)">TCT.02.02(a)(2)</cite>; and promoting "a judicial system separate and independent of the legislative branch of tribal government," <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.01|(a)|(4)">§TCT.01.01(a)(4)</cite>.  These three purposes are closely related.  The Tribal Council enacted the Tribal Court Code and created an independent judiciary as an essential reform to the Stockbridge-Munsee Community Constitution.  Like most constitutions enacted in the 1930s under the Indian Reorganization Act, the Constitution vested all governing power in the Council with no provision for courts.  <cite doc="Stockbridge-Munsee Constitution and By-laws" path="IV">Stockbridge-Munsee Const. Art. IV.</cite>  For many indigenous nations, the lack of judicial independence has stifled tribal sovereignty, pushing potential economic partners to other, more seemingly secure jurisdictions and inviting federal and state authorities to abrogate tribal jurisdiction and interfere in tribal affairs due to "perceptions that tribal courts fail to afford fair and impartial forums for dispute resolution."  Tribal Judicial Institute, Protecting Sovereignty: The Role of Tribal Courts (University of North Dakota School of Law, 2013), at 4, available at <a href="https://law.und.edu/npilc/tji/_files/docs/protecting-sovereignty-tribal-courts-2013.pdf">https://law.und.edu/npilc/tji/_files/docs/protecting-sovereignty-tribal-courts-2013.pdf</a> ; <em><u>see also</u></em> <u>Nevada v. Hicks</u>, 533 U.S. 353, 384 (2001) (Souter, J., concurring) (denying tribal court jurisdiction over state game wardens sued by a tribal member for rights violations that occurred on reservation because "[t]ribal courts . . . differ from other American courts . . . in their structure, in the substantive law they apply, <em>and in the independence of their judges</em>") (emphasis added).  The Stockbridge-Munsee Community has recognized, like many other indigenous polities, that establishing an independent judiciary is a crucial step and "best practice" for effective nation-building.  "A well-designed and operated court system serves a Native nation by clarifying the economic, political, and social rules of the community; protecting the rights of members and nonmembers; maintaining peace and order; and insulating the nation from attacks on its sovereignty from those who otherwise may view Indian nations as poorly governed or lawless." The Harvard Project on American Indian Economic Development, The State of Native Nations: Conditions Under U.S. Policies of Self-Determination 44 (2008).  As judicial independence has strengthened over the past several decades, tribal jurisdictions have benefited from "[a]n increasing number of state courts . . .  codifying some form of comity . . . to tribal court judgments and orders . . . [and] recognizing routine tribal court judgments and orders as a matter of state common law."  Matthew L.M. Fletcher, <em>Indian Courts and Fundamental Fairness: </em>Indian Courts and the Future <em>Revisited</em>, 84 U. Colo. L. Rev. 59, 73 (2013) ("The respect for tribal courts by tribal governments, tribal members, nonmembers, and foreign governments . . . improves every year.").</text>
+    </para>
+    <para>
+      <num>¶9</num>
+      <text>Consistent with the separation that the Tribal Court Code enacts between the legislative and judicial branches, the Council "delegates the authority to regulate judicial misconduct . . . to the Judiciary Commission." <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(b)|(3)">§TCT.01.07(b)(3)</cite>.  As noted above, the Code requires that when the Commission administers a complaint, it "shall" provide the accused judge "with a full and fair opportunity to provide a defense as part of any investigatory process." <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(C)">§TCT.01.07(d)(5)(C)</cite>.  Only after that "full and fair" process "shall" the Commission issue its "written report documenting its investigation and determination, including any judicial disciplinary measures."  <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(D)">§TCT.01.07(d)(5)(D)</cite>.  The Code authorizes the Commission to discipline a judge "after a hearing on the matter in which the . . . Judge has received notice and an opportunity to be heard." <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(6)|(A)">§TCT.01.07(d)(6)(A)</cite>.  The statutory language is mandatory, laying out what the Commission must do before disciplining judges.</text>
+    </para>
+    <para>
+      <num>¶10</num>
+      <text>For good reason the Code's procedures for judicial discipline cases pointedly and repeatedly require a "full and fair opportunity to provide a defense" and "notice and opportunity to be heard."  These provisions are designed not simply to recognize the individual rights of people who serve as judges.  Rather, these procedures protect the independence of the judiciary as a whole by ensuring that judges are not subject to undue pressure backed by the threat of summary punishment.<fn path="|footnotes|4">4</fn><em><u>   Cf.</u></em> <u>LaRance v. Hopi Tribe</u>, 10 Am. Tribal Law 345, 355 (App. Ct. Hopi Tribe, 2010) (requiring heightened procedural requirements for judicial removals because deficient process "would seriously undermine . . . judicial independence, and consequently the integrity of fair judging in future cases").  Under appellants' strict construction of <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.23|(a)">§TCT.02.23(a)</cite>, the Commission's failure to follow Tribal Code's mandatory disciplinary procedures would be all but unreviewable.<fn path="|footnotes|5">5</fn>  Reading the Code in light of its stated interest in promoting sovereignty, fairness, and judicial independence compels a different conclusion: that §<cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(C)">§TCT.01.07(d)(5)(C)</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(5)|(D)">TCT.01.07(d)(5)(D)</cite>, and <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(d)|(6)|(A)">TCT.01.07(d)(6)(A)</cite> "authorize[] by law" an administrative appeal when the Commission fails to observe the required procedures for judicial discipline.<fn path="|footnotes|6">6</fn></text>
+    </para>
+    <para>
+      <num>¶11</num>
+      <text>The Tribal Court is AFFIRMED.</text>
+    </para>
+  </container>
+  <procedural-data>
+    <text>Entered this 18th day of December, 2025.</text>
+    <text>
+      <strong>Daniel J. Sharfstein</strong>
+    </text>
+    <text>
+      <strong>Special Justice</strong>
+    </text>
+    <text>
+      <strong>
+        <em>Smith, C.J. and Lochen, Justice concur</em>
+      </strong>
+    </text>
+  </procedural-data>
+  <footnotes>
+    <footnote>
+      <num>1</num>
+      <text>Daniel J. Sharfstein, a professor of Federal Indian Law and Dick and Martha Lansden Chair in Law and Professor of History at Vanderbilt University, sitting as Special Justice.</text>
+    </footnote>
+    <footnote>
+      <num>2</num>
+      <text>While Appellee's administrative appeal does claim a violation of the due process provision of the Stockbridge-Munsee Bill of Rights, Tribal Code <cite doc="Stockbridge-Munsee Tribal Code" path="|GOV.01.01|(i)">§GOV.01.01(i)</cite>, asserting that "Stockbridge-Munsee Tribal Court judges likely possess property interests in their judicial seats," <u>Schreiber v. Miller</u>, Case No. 2025-AA-0001 (Administrative Appeal ¶¶25-26, May 9, 2025), this Court need not address the merits of this claim because the case can be fully decided on the allegations of violations of the Tribal Court Code.</text>
+    </footnote>
+    <footnote>
+      <num>3</num>
+      <text>At oral argument, counsel for Appellants raised the issue of sovereign immunity.  An appeal of an agency decision that is "authorized by law" is not a lawsuit against the sovereign that requires a waiver of immunity.  By contrast, if an agency decision is not appealable, an aggrieved party might try to file a separate lawsuit, which would require a determination of whether sovereign immunity blocks the action.  <em><u>See, e.g.,</u></em> <cite doc="2022 SMTCA 1"><u>Miller &amp; Vele v. Stockbridge-Munsee Community</u>, 2022 SMTCA 1 (2022)</cite>.</text>
+    </footnote>
+    <footnote>
+      <num>4</num>
+      <text>Allowing appeal brings the Stockbridge-Munsee courts in line with most independent judicial systems in the United States.  See commentary on Rule 25, ABA Model Rules for Judicial Disciplinary Enforcement (2018) ("The highest court has the inherent power and final responsibility to regulate the judicial branch of government.").  While this Honorable Court is not bound by the practices of state courts because the Stockbridge-Munsee Community is a sovereign indigenous nation, <em><u>see </u></em><cite doc="2021 SMTCA 2"><u>Miller v. Stockbridge-Munsee Community</u>, 2021 SMTCA 2 n.2</cite>, <em><u>accord </u></em><u>Manygoats v. GMAC</u>, 4 Nav. R. 94 (Nav. Ct. App. 1983), at *7 and <u>Matos v. Mashantucket Pequot Gaming Enter.</u>, 2 Mash. 130 (Mash. Pequot Ct. App. 1997), at *4, it is useful to consider how many other jurisdictions maintain judicial independence.</text>
+    </footnote>
+    <footnote>
+      <num>5</num>
+      <text>The Tribal Council by supermajority vote "retains the authority to remove members of the Judiciary Commission for neglect of duty, gross misconduct or the failure to retain eligibility to serve," <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(c)|(4)">§TCT.01.07(c)(4)</cite>.  Whether the failure to provide adequate procedure in judicial discipline cases rises to a removable offense is beyond the scope of this case.  The Tribal Court Code mandates a "full and fair opportunity" for Commissioners "to reply to any and all charges," with "at least ten (10) days prior notice of the charges."  §<cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.07|(c)|(4)|(B)">§TCT.01.07(c)(4)(B)</cite> &amp; (C).</text>
+    </footnote>
+    <footnote>
+      <num>6</num>
+      <text>As with all administrative appeals, the Commission's decisions are entitled to deference in the Tribal Court, which "shall not disturb the entity's action unless it finds, based on evidence in the record, a material error of law or fact or an abuse of the entity's discretion."  §<cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.02.23|(c)">§TCT.02.23(c)</cite> &amp; (f). If the Tribal Council disagrees with this Court's conclusion, it can amend the Tribal Court Code to limit appeals of the Commission's decisions.</text>
+    </footnote>
+  </footnotes>
+</document>
