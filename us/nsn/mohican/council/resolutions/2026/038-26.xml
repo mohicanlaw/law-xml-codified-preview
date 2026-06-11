@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Stockbridge-Munsee Tribal Council Res. No. 038-26" codify:doc="Stockbridge-Munsee Tribal Code">
+  <num>038-26</num>
+  <heading/>
+  <meta>
+    <ordinance/>
+    <effective>2026-06-02</effective>
+    <history>
+      <adopted>2026-06-02</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/038-26.pdf">Stockbridge-Munsee Tribal Council Res. No. 038-26</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community is a federally recognized Indian tribe with inherent sovereign powers and is governed by the Stockbridge-Munsee Tribal Council pursuant to the 1937 Constitution, as amended;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Stockbridge-Munsee Community has the authority under its Constitution and its inherent rights as a sovereign nation to adopt and amend Ordinances;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribal Council has adopted the Solid Waste Management Ordinance, <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.03">ENV.03</cite>, to address the management and disposal of solid waste on the reservation;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe cooperates with the State of Wisconsin on waste disposal since solid waste and recyclable materials are transferred to facilities located with the State of Wisconsin;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The State of Wisconsin has updated its laws regarding recycling requirements and the Tribe wishes to amend its ordinance to incorporate those changes, including updating the ordinance name to include recycling;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Tribe also intends to amend other portions of the ordinance to reflect current waste disposal practices, including that there is no solid waste disposal facility on tribal land, clarifying enforcement standards, and burn permit requirements.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Stockbridge-Munsee Tribal Council hereby adopts the following amendments to <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.03"><cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.03">ENV.03</cite></cite>:</text>
+      <text>Amend the following sections of <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.03">ENV.03</cite>:  .01(b); .02(a), (b), (c)(1) and (2), and (d); .03(a); .06(a); .07(b) and (b)(1) with renumbering; .09(a); .10(a), (b), (b)(1) and (b)(4) with renumbering; .12(a)(1)(A) and (B), (e)(2), (e)(2)(A), and .13(b)(1), (c), and (d).</text>
+      <text>Delete the following sections of <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.03">ENV.03</cite>:  .03(d) and (g) with renumbering; .05(c); and omit .11 entirely.</text>
+      <text>Add the following sections to <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.03">ENV.03</cite>: .06(b); .07(b)(2); .10(b)(2), (b)(3), and (c); and .12(e)(2)(A) (i-ii), (e)(2)(B), and (e)(2)(B)(i-ii) with renumbering;</text>
+      <text>BE IT FURTHER RESOVED, the Stockbridge-Munsee Tribal Council renames <cite doc="Stockbridge-Munsee Tribal Code" path="ENV|ENV.03">ENV.03</cite> as the Solid Waste Management and Recycling Ordinance.</text>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text>CERTIFICATION</text>
+    <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 6, constituting a quorum, were present at a meeting duly called, noticed, and held on the 2nd day of June, 2026, that the foregoing resolution was duly adopted at such meeting by a vote of 5 for, 0 against, and 0 abstaining.</text>
+    <table class="layout-table">
+      <tr>
+        <td>__________________________</td>
+        <td class="text-indent-3">__________________________</td>
+      </tr>
+      <tr>
+        <td>Shannon Holsey, President</td>
+        <td class="text-indent-3">Jody Hartwig, Secretary</td>
+      </tr>
+    </table>
+  </procedural-data>
+  <codify:replace path="ENV.03|heading" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03">
+    <heading>Solid Waste Management and Recycling Ordinance</heading>
+  </codify:replace>
+  <codify:replace path="ENV.03.01" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.01">
+    <section>
+      <num>ENV.03.01</num>
+      <heading>Scope And Purpose</heading>
+      <para>
+        <num>(a)</num>
+        <text>The purpose of this Ordinance is to help ensure that efficient, nuisance free and environmentally acceptable solid waste management procedures are practiced on the Stockbridge-Munsee Reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>This Ordinance applies to the activities of tribal members and non-members on the Reservation.  It is not intended to preempt Wisconsin Department of Natural Resources solid waste management regulations otherwise applicable on fee simple lands.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.02" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.02">
+    <section>
+      <num>ENV.03.02</num>
+      <heading>Solid Waste Management</heading>
+      <para>
+        <num>(a)</num>
+        <text>Solid wastes within the Reservation boundaries shall be handled, stored, collected, transported, transferred, processed and disposed of in accordance with the provisions of this Ordinance and where appropriate under other applicable tribal law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The owner or occupant of any premise, business establishment, or industry shall be responsible for the sanitary storage of all solid waste accumulated at the premise, business establishment or industry prior to collection for disposal. In addition, the owner or occupant shall be responsible for recycling consistent with <cite path="|ENV.03.12" doc="Stockbridge-Munsee Tribal Council Res. No. 038-26">Section ENV.03.12 </cite>and the Tribe's Recycling Plan.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Solid waste shall be stored in:</text>
+        <para>
+          <num>(1)</num>
+          <text>Containers provided by the Tribe or waste collector or, if container is not provided, then a lidded container that is durable, rust-resistant, non-absorbent, water tight, and cleanable with adequate handles or bails to facilitate handling, or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Other types of containers acceptable to the Tribe and conforming to the intent of this Ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Every person, occupant, owner, lessee, or permit holder shall have the duty of maintaining the premises or equipment under his/her supervision, containers or disposal areas in compliance with the requirements of this Ordinance.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.03" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.03">
+    <section>
+      <num>ENV.03.03</num>
+      <heading>Refuse Collection</heading>
+      <para>
+        <num>(a)</num>
+        <text>Waste matter shall be placed for collection and collected at a frequency which precludes the possibility of unsightly, unclean or unhealthy premises or the occurrence of a nuisance, and in no event shall be less than once a week. Such collection shall include curbside recycling collection. In the event a collection service is not used, the occupant of the premise shall be responsible for disposing of both solid waste and recycling materials in a timely manner and consistent with tribal law and the Tribe's Recycling Plan.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The collector shall transfer the contents of all containers into an approved vehicle or vehicle provided for such purpose. He/she shall clean up all garbage, rubbish, or waste matter spilled during collection and shall completely empty containers and replace lids.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The collector shall not damage cans or property while making collections and shall return containers to their proper locations or designated place.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Refuse not acceptable for collection, junk car bodies, discarded appliances and demolition waste shall be the responsibility of the owners for removal and disposal.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Vehicles or containers used for the collection and transportation of any solid waste shall be loaded and moved in such a manner that the contents will not fall, leak or spill therefrom, and shall be covered when necessary to prevent blowing of material.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.04" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.04">
+    <section>
+      <num>ENV.03.04</num>
+      <heading>Refuse Disposal And Anti-Littering</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall throw or deposit any garbage, rubbish, or waste matter or cause the same to be thrown or deposited upon any street, alley, gutter, park, tribal properties or adjacent lands; or throw or deposit the same in or upon any premises or vacant lot or in any water or waterway.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall dispose of solid waste on any private or public residential property where disposal will cause a public nuisance or health hazard, by causing foul odors to escape or by infestation of insects or rodents. All solid wastes shall be disposed of at appropriately designated landfills.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No person shall dispose of solid waste from any stopped or moving vehicle onto any state, county, town, or tribal highways, roads, or rights-of-way.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.05" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.05">
+    <section>
+      <num>ENV.03.05</num>
+      <heading>Jurisdiction And Procedure</heading>
+      <para>
+        <num>(a)</num>
+        <text>Jurisdiction is hereby conferred upon the Stockbridge-Munsee Tribal Court over actions brought for violations of this Ordinance.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Proceedings for violations of this Ordinance shall be governed by the appropriate sections of the Tribal Court Code; provided, that proceedings may be instituted in Tribal Court by the issuance of a citation.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.06" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.06">
+    <section>
+      <num>ENV.03.06</num>
+      <heading>Enforcement</heading>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of this Ordinance shall be enforced by all tribal law enforcement officers which includes the authority to investigate, issue citations, consult with other law enforcement agencies, and take other similar actions as appropriate.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Tribal Conservation Wardens and Tribal Police Officers are all tribal law enforcement officers for purposes of enforcement of this Ordinance.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.07" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.07">
+    <section>
+      <num>ENV.03.07</num>
+      <heading>Penalties</heading>
+      <para>
+        <num>(a)</num>
+        <text>Violation of the provisions of this Ordinance shall be punishable by a civil remedial money penalty not to exceed $500.00.  Each day of a violation may be treated as a separate violation under this provision.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to a civil remedial money penalty, the Tribal Court may order:</text>
+        <para>
+          <num>(1)</num>
+          <text>that any personal property including vehicles and other equipment which has been used in connection with the violation of this Ordinance and seized by tribal law enforcement may be forfeited to be the property of the Tribe or disposed of at the Tribal Council's discretion.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>such other relief as is necessary and proper for enforcement of this Ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>In addition to the foregoing penalties, the Court may suspend or revoke any license issued pursuant to this Ordinance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon conviction the Court shall order payment of court costs of $15.00.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Nothing herein shall prevent the Tribe from bringing suit against any violator of this Ordinance for money damages for harm to tribal resources caused by the violation.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Any interested party may bring suit in tribal court to enjoin a violation of this Ordinance.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>To prevent or remediate violations of this Ordinance, the court may order remedial action, restoration, community service, injunctive relief, damages, forfeitures, penalties, costs, reasonable attorney fees, and/or other relief.  Any forfeiture or penalty shall inure to the Tribe.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.08" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.08">
+    <section>
+      <num>ENV.03.08</num>
+      <heading>Amendments, Severability And Non-Liability</heading>
+      <para>
+        <num>(a)</num>
+        <text>Amendments.  Amendment to this Ordinance will be effective upon enactment by the Stockbridge-Munsee Community Tribal Council without further review by the Secretary of the Interior.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Severability and Non-liability.  If any section, provision, or portion of this Ordinance is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of this Ordinance will not be affected thereby. The Tribe declares there is no liability on the part of the Tribe, its agencies, or employees for damages that may occur as a result of reliance upon or conformance with this Ordinance. The Tribe, by adoption of this Ordinance, does not waive sovereign immunity in any respect.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.09" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.09">
+    <section>
+      <num>ENV.03.09</num>
+      <heading>Hazardous And Toxic Waste</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall dispose of any hazardous or toxic waste as defined by federal or state law at any time subsequent to the adoption of <cite path="|ENV.03.09" doc="Stockbridge-Munsee Tribal Council Res. No. 038-26">this section</cite> within the boundaries of the Reservation, except in accordance with rules promulgated by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person or entity found to have violated <cite path="|ENV.03.09" doc="Stockbridge-Munsee Tribal Council Res. No. 038-26">this section</cite> shall forfeit not less than $100.00 nor more than $500.00 per day for such violation from the date of disposal.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.10" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.10">
+    <section>
+      <num>ENV.03.10</num>
+      <heading>Construction, Demolition, Yard Wastes And Burning</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall burn any substance as a means of disposal with the exception of clean untreated wood and yard wastes, including leaves, tree and brush trimming, grass clippings, and other vegetable matter, except as with a burn permit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Burning of unpainted wood and yard wastes on tribal trust lands shall be permitted only pursuant to burning permits issued by the Stockbridge-Munsee Fire Chief or designee, in consultation with tribal law enforcement, Environmental Program, and Forestry Department.</text>
+        <para>
+          <num>(1)</num>
+          <text>Burn permits shall identify the persons, places and periods of time when burning in permissible and are subject to all applicable burn restrictions and this Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Before burning under the burn permit, the permit holder must verify that it is a permissible burn day and there are no restrictions in place such as those for fire danger level and wind conditions. The daily Wisconsin Department of Natural Resources Burn Restrictions shall be used as guidance on permissible burn days and restrictions. The permit holder must also notify the Shawano County Sheriff Department of the burn.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The permit holder must attend the burn at all times and make certain it is completely extinguished and cold to touch before leaving.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Burning shall only be permitted in such a manner as to minimize risk of fire to nearby property. If the burn escapes control, the permit holder must call 911 immediately.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Burning construction/demolition materials and abandoned structures is highly discouraged due to the significant negative environmental impacts and potential safety hazards.  Burning of these materials can release toxic pollutants (dioxins, heavy metals, mercury, etc.) into the air, soil, and water.  These toxins pose health risks that include cancer, reproductive issues, and respiratory problems. Such materials or structures can only be burned subject to a burn permit and with Tribal Council approval.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:repeal path="ENV.03.11" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.11"/>
+  <codify:replace path="ENV.03.12" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.12">
+    <section>
+      <num>ENV.03.12</num>
+      <heading>Recycling</heading>
+      <para>
+        <num>(a)</num>
+        <text>Materials identified as recyclable shall be separated from non-recyclable solid waste and recycled in accordance with the Stockbridge-Munsee Community Recycling Plan or other applicable materials.</text>
+        <para>
+          <num>(1)</num>
+          <text>Recyclable materials are items that can be re-used, re-refined, reformed, smelted or serve as a raw material for manufacturing processes; these materials have a secondary market and collection facilities in place for such re-use.</text>
+          <para>
+            <num>(A)</num>
+            <text>In general, recyclable materials include, but are not limited to, paper, cardboard, and containers made from glass, steel, aluminum, and plastics.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Other materials, such as the following, are also recyclable, but need to be handled in a special manner:  used engine oil, fluorescent light bulbs, old automobiles, wet cell batteries, major appliances, electronics, and tires.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Non-recyclable solid wastes are those waste materials that are a part of the solid waste stream and do not currently have an available recycling process or are excluded from the recycling process for other reasons.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person may dispose of recyclable materials by abandonment, dumping, burning or using other destructive means on those materials.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To the greatest extent practicable, recyclable materials shall be kept clean and free of contaminants such as dirt, oil, grease, food or non-recyclable materials.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Yard waste and plant materials shall be disposed of through composting or burning in accordance with applicable laws.  It shall not be included with solid waste that is disposed of in a landfill or other similar means.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Responsibility for Recycling.</text>
+        <para>
+          <num>(1)</num>
+          <text>Occupants of residential units shall be held responsible for recycling materials from their own household waste in accordance with this Ordinance.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Owners of multi-family dwellings and non-residential properties shall have the final responsibility for recycling at their premises.  However, owners shall not be held responsible for the actions of individuals on their premises, if they act to promote recycling at their premises as follows.</text>
+          <para>
+            <num>(A)</num>
+            <text>Multi-family properties. Owners shall provide adequate, separate containers for recyclable materials and non-recyclable solid waste consistent with the following requirements.</text>
+            <para>
+              <num>(i)</num>
+              <text>The number of recycling containers shall equal to or be greater than the number of solid waste containers; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The owner shall ensure that one of the following requirements is met:</text>
+              <para>
+                <num>(I)</num>
+                <text>The minimum total volume of recycling container space is equal to 20 gallons/week/dwelling unit; or</text>
+              </para>
+              <para>
+                <num>(II)</num>
+                <text>The ratio of solid waste container volume to recycling container volume is at most 2:1; or</text>
+              </para>
+              <para>
+                <num>(III)</num>
+                <text>An alternate method acceptable to the Environmental Program that does not result in the overflow of a recycling container during the time period between collection of materials and deliver to a recycling facility is used.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Non-residential facilities.</text>
+            <para>
+              <num>(i)</num>
+              <text>For the purposes of <cite path="|ENV.03.12" doc="Stockbridge-Munsee Tribal Council Res. No. 038-26">this section</cite>, this includes government or business facilities as well as multi-occupant residential facilities, such as a community-based residential facility, operated by Tribe or another organization on tribal land.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Owners shall provide adequate, separate containers for recyclable materials and non-recyclable solid waste consistent with the following requirements. The total volume of recycling containers shall be sufficient to avoid overflow during the time period between collection of materials and delivery to a recycling facility.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Provide written notice to tenants, users and occupants of the premises about recycling requirements under this Ordinance, the Plan and any other recycling program at the premises.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Provide for the proper collection and disposal of both recyclable and non-recyclable materials.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Provide written notification to tenants, users and occupants of the premises about how to prepare materials and where to store the materials for collection.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="ENV.03.13" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.13">
+    <section>
+      <num>ENV.03.13</num>
+      <heading>Stockbridge-Munsee Community Recycling Plan</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Tribe shall adopt the Stockbridge-Munsee Community Recycling Plan ("Plan") to address how recycling will be handled on Reservation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The following procedures shall apply to the adoption of this Plan.</text>
+        <para>
+          <num>(1)</num>
+          <text>The Plan shall be developed by the tribal Environmental Program, with the input from interested tribal departments or committees.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Once a draft Plan is prepared, the public shall be given an opportunity to comment on the provisions of the Plan.  Public comments on the Plan will be considered and a final draft of the Plan submitted to the Tribal Council.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Plan shall become final when it is adopted by the Tribal Council through a resolution at a regular Tribal Council meeting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Plan shall be reviewed by the tribal Environmental Program at least every three years and amended as necessary.</text>
+        <para>
+          <num>(1)</num>
+          <text>The public shall be given an opportunity to comment on proposed amendments.  Public comments will be considered when a final draft of the revised Plan, which incorporates the amendments, is prepared.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The revised Plan shall become final when it is adopted by the Tribal Council through a resolution at a regular Tribal Council meeting.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Tribe shall also adopt such policies as are necessary to implement the Plan for the Tribe's government and economic enterprises.  Such policies shall be developed by the tribal Environmental Program and shall regulate all employees.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:annotation path="ENV.03" type="Legislative History" history="false" dest="container" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.03.01|annos">6. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 038-26">Resolution No. 038-26</cite>, adopted June 2, 2026.</codify:annotation>
+</document>
