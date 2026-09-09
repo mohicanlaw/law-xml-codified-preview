@@ -978,7 +978,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 70, §70.1</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" target-path="GOV" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1014,7 +1014,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 70, §70.2</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" target-path="GOV" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1034,7 +1034,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 70, §70.3</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" target-path="GOV" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1163,7 +1163,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 70, §70.4</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" target-path="GOV" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1219,12 +1219,12 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 70, §70.5</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" target-path="GOV" type="History"/>
       </annotations>
     </section>
     <annotations>
       <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 062-19">Resolution No. 062-19</cite>, adopted August 20, 2019. Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No.017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</annotation>
     </annotations>
-    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" type="History"/>
+    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 062-19" eff="2021-01-28" path="" target-path="GOV" type="History"/>
   </container>
 </container>

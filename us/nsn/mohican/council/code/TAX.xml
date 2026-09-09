@@ -58,8 +58,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.1</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01.01" type="History"/>
       </annotations>
     </section>
     <section>
@@ -211,8 +212,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.2</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01.02" type="History"/>
       </annotations>
     </section>
     <section>
@@ -221,8 +223,9 @@
       <text>Taxes assessed under this Tax Ordinance are the liability of the Taxpayers.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.3</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01.03" type="History"/>
       </annotations>
     </section>
     <section>
@@ -231,8 +234,9 @@
       <text>The Tax Commission may abate any part of an assessment which it determines was incorrectly, erroneously, or illegally made, as long as such abatement is: (i) in response to a written request before any court acquires jurisdiction in the matter; and (ii) made after an original assessment is found to be incorrect.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.4</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -241,8 +245,9 @@
       <text>If at any time after a final assessment of Taxes, the Tax Commission in good faith is in doubt of the liability of the Taxpayer for the payment thereof, it may compromise the liability by entering into a written closing agreement with the Taxpayer that adequately protects the interest of the Tribe, provided that the agreement will be subject to final approval by the Tribal Council. Any such agreement shall preserve the sovereign immunity of the Tribe and the jurisdiction of the Tribal court, and be subject to all of the laws of the Tribe.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.5</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01.05" type="History"/>
       </annotations>
     </section>
     <section>
@@ -251,8 +256,9 @@
       <text>Information received by the Tax Commission is confidential and protected under the disclosure rules set forth in the Tax Regulations.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.6</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01.06" type="History"/>
       </annotations>
     </section>
     <section>
@@ -284,8 +290,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.7</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01.07" type="History"/>
       </annotations>
     </section>
     <annotations>
@@ -293,15 +300,15 @@
       <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 047-10">Resolution No. 047-10</cite>, adopted July 6, 2010, approved by BIA August 13, 2010.</annotation>
       <annotation path="" type="Legislative History" history="false" app="2021-01-28" eff="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No.026-18</cite>, adopted March 6, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</annotation>
     </annotations>
-    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
+    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
     <section>
       <num>TAX.01.08</num>
       <heading>Notice Deemed Effective</heading>
       <text>The Tax Commission's required notice may be effectively given to a Person by mailing the notice to the last address designated by the Person. The foregoing is not intended to exclude the use of other methods of providing notice, including publication in the tribal or local newspapers.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.8</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -310,8 +317,8 @@
       <text>Jurisdiction over enforcement of the provisions of the Tax Ordinance is conferred upon the Tribe's Tribal Court. The Court shall apply <cite path="|TCT.02.23">Section TCT.02.23</cite> Administrative Appeals to an appeal to the Court under this Tax Ordinance.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.9</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -320,8 +327,8 @@
       <text>Every Taxpayer shall keep full and true records of any Tax, any interest, penalty or cost imposed or assessed under this or any subsequent Tax Ordinance of the Tribe. Record keeping shall be in compliance with any applicable Tax Commission Rules, regulations or procedures and such records shall be available upon request to the Tax Commission. Records required to be kept under <cite path="|TAX.01.11">Section TAX.01.11</cite> shall be preserved for seven years beyond the time a Tax is paid or if no payment is due, seven years beyond the end of the period to which the records relate.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.10</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -379,8 +386,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.11</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -418,8 +425,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.12</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -503,8 +510,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.13</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -522,8 +529,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.14</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -532,8 +539,8 @@
       <text>The purpose of this Sales Tax Code is to provide a revenue-generating income source to strengthen tribal self-government, and to assure security for the future of the health, welfare, and general well-being of Tribal members. The revenue generated hereunder shall be deposited into the Tribal Tax Fund and used for governmental purposes of the Tribe, as determined at the discretion of the Tribal Council.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.15</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -556,8 +563,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.16</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -611,8 +618,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.17</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -621,8 +628,8 @@
       <text>The Tax Commission shall establish within the Tax Regulations such administrative procedures deemed reasonable and appropriate for the administration of this Sales Tax Code and in furtherance of the purposes stated herein.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.18</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -630,8 +637,8 @@
       <heading>Reserved</heading>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.19</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -640,8 +647,8 @@
       <text>The purpose of <cite path="|TAX.01.20">Section TAX.01.20</cite> through <cite path="|TAX.01.23">Section TAX.01.23</cite> is to provide a revenue-generating income source to strengthen tribal self-government, and assure security for the future health, welfare, and general well-being of its members.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.20</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -664,8 +671,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.21</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -693,8 +700,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.22</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -703,8 +710,8 @@
       <text>The Tax Commission shall establish within the Tax Regulations such administrative procedures deemed reasonable and appropriate for the administration of this Hotel Occupancy Tax Code and in furtherance of the purposes stated therein.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.23</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -713,8 +720,8 @@
       <text>This Tax Ordinance shall take effect upon ratification by the Tribal Council and subsequent BIA approval or such date as is fixed by action of the Tax Commission, and the provisions of this Tax Ordinance shall apply (except as otherwise provided) to all assessment dates and Periods beginning on or after the effective dates of the respective parts of the Tax Ordinance.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.24</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -723,11 +730,11 @@
       <text>If a court of competent jurisdiction finds any portion of this Ordinance illegal, then the remaining portions of this Ordinance shall not be affected and shall continue to be in force.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 57, §57.25</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
       </annotations>
     </section>
-    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History" display="false"/>
+    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.01" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -750,6 +757,6 @@
     <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 047-10">Resolution No. 047-10</cite>, adopted July 6, 2010, approved by BIA August 13, 2010.</annotation>
     <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 026-18">Resolution No. 026-18</cite>, adopted March 6, 2018.</annotation>
     <annotation type="Legislative History">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite>, adopted January 21, 2021, approved by BIA January 28, 2021.</annotation>
-    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" type="History"/>
+    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 026-18" eff="2021-01-28" path="" target-path="TAX.02" type="History"/>
   </container>
 </container>

@@ -1590,8 +1590,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.1</annotation>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04.01" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1659,8 +1659,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.2</annotation>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04.02" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1688,8 +1688,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.3</annotation>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04.03" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1749,8 +1749,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.4</annotation>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1778,8 +1778,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.5</annotation>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04.05" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1788,8 +1788,8 @@
       <text>In the event that any provision of this ordinance is ruled illegal by a court of competent jurisdiction, the remaining provisions of this ordinance shall remain unaffected.</text>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 26A, §26A.6</annotation>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04.06" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1855,15 +1855,15 @@
         </ul>
       </text>
       <annotations>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
-        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
+        <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04.07" type="History"/>
       </annotations>
     </section>
     <annotations>
       <annotation type="Legislative History">1. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 059-07">Resolution No. 059-07</cite>, adopted August 21, 2007, approved by BIA August 21, 2007.</annotation>
       <annotation path="" type="Legislative History" history="false" app="2022-01-18" eff="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 024-22">Resolution No. 024-22</cite>, adopted January 18, 2022, approved by BIA January 25, 2022.</annotation>
     </annotations>
-    <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" type="History" display="false"/>
+    <annotation app="2022-01-18" doc="Stockbridge-Munsee Tribal Council Res. No. 024-22" eff="2022-01-18" path="" target-path="SAF.04" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1947,8 +1947,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.1</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05.01" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2024,8 +2025,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.2</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05.02" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2101,8 +2103,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.3</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05.03" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2135,8 +2138,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.4</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05.04" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2152,8 +2156,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.5</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05.05" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2308,8 +2313,9 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.6</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05.06" type="History"/>
       </annotations>
     </section>
     <annotations>
@@ -2317,7 +2323,7 @@
       <annotation type="Legislative History">2. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 027-06">Resolution No. 027-06</cite>, adopted March 21, 2006, approved by BIA April 10, 2006.</annotation>
       <annotation path="" type="Legislative History" history="false" app="2021-01-28" eff="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18">3. <cite doc="Stockbridge-Munsee Tribal Council Res. No. 034-18">Resolution No.034-18</cite>, adopted April 17, 2018.  Adoption confirmed by <cite doc="Stockbridge-Munsee Tribal Council Res. No. 017-21">Resolution No. 017-21</cite> on January 21, 2021. Approved by BIA January 28, 2021.</annotation>
     </annotations>
-    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
+    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
     <section>
       <num>SAF.05.07</num>
       <heading>Food Service Permit</heading>
@@ -2387,8 +2393,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.7</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -2444,8 +2450,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.8</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -2473,8 +2479,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.9</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -2510,8 +2516,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.10</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -2527,8 +2533,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.11</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -2544,8 +2550,8 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.12</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
       </annotations>
     </section>
     <section>
@@ -2565,11 +2571,11 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">Formerly codified as Chapter 56, §56.13</annotation>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History"/>
-        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History"/>
+        <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
       </annotations>
     </section>
-    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" type="History" display="false"/>
+    <annotation app="2021-01-28" doc="Stockbridge-Munsee Tribal Council Res. No. 034-18" eff="2021-01-28" path="" target-path="SAF.05" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

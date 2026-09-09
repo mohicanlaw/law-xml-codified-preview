@@ -32,7 +32,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="1|(c)" type="History"/>
     </annotations>
   </section>
   <section>
@@ -109,7 +109,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="2|(a)" type="History"/>
     </annotations>
   </section>
   <section>
@@ -182,7 +182,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="3|(a)|(2)" type="History"/>
     </annotations>
   </section>
   <section>
@@ -211,7 +211,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="4" type="History"/>
     </annotations>
   </section>
   <section>
@@ -252,7 +252,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2025-01-07" doc="Stockbridge-Munsee Tribal Council Meeting 2025-01-07" eff="2025-01-07" path="" type="History"/>
+      <annotation app="2025-01-07" doc="Stockbridge-Munsee Tribal Council Meeting 2025-01-07" eff="2025-01-07" path="" target-path="5|(b)|(3)" type="History"/>
     </annotations>
   </section>
   <section>
@@ -333,7 +333,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="6|(d)" type="History"/>
     </annotations>
   </section>
   <section>
@@ -382,7 +382,7 @@
     </para>
     <annotations>
       <annotation doc="Stockbridge-Munsee Tribal Council Res. No. 040-24" type="History"/>
-      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" type="History"/>
+      <annotation app="2024-12-03" doc="Stockbridge-Munsee Tribal Council Res. No. 008-25" eff="2024-12-03" path="" target-path="9" type="History"/>
     </annotations>
   </section>
 </document>
