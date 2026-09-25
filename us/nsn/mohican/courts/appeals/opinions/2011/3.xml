@@ -5,7 +5,7 @@
   <meta>
     <effective>2011-06-23</effective>
     <citations>
-      <citation type="reporter" url="./2011 SMTCA 3.pdf">2011 SMTCA 3</citation>
+      <citation type="reporter">2011 SMTCA 3</citation>
       <citation type="opinion" url="./10-AP-2010-AA-0004.pdf">Case No. 10-AP-2010-AA-0004</citation>
     </citations>
     <parties>
@@ -19,37 +19,40 @@
       </party>
     </parties>
   </meta>
-  <para>
-    <num>¶1</num>
-    <text>The above-entitled action having been heard by the Stockbridge-Munsee Appellant Court by Pro tempore Honorable Gerold Smith, Honorable Candace Des Armo Coury and Pro tempore, Honorable Donald Gurnoe. This Court affirmed the lower courts decision and order by the Stockbridge-Munsee Court in Case No. 2010-AA-0004.</text>
-  </para>
-  <container name="MOTION FOR RECONSIDERATION">
-    <heading>MOTION FOR RECONSIDERATION</heading>
+  <container name="ORDER" class="center">
+    <heading>ORDER</heading>
     <para>
-      <num>¶2</num>
-      <text>The Motion for Reconsideration is now before the Stockbridge-Munsee Appellant Court by Pro tempore, Gerold Smith, Pro tempore, Honorable Donald Gurnoe and Honorable Candace Des Armo Coury.</text>
+      <num>¶1</num>
+      <text>The above-entitled action having been heard by the Stockbridge-Munsee Appellant Court by Pro tempore Honorable Garold Smith, Honorable Candace Des Armo Coury and Pro tempore, Honorable Donald Gurnoe. This Court affirmed the lower courts decision and order by the Stockbridge-Munsee Court in Case No. 2010-AA-0004.</text>
     </para>
-  </container>
-  <container name="Review of Facts and Findings">
-    <heading>Review of Facts and Findings</heading>
-    <para>
-      <num>¶3</num>
-      <text>Upon review of all facts and documents this Appellate Court finds the following:</text>
+    <container name="MOTION FOR RECONSIDERATION">
+      <heading>MOTION FOR RECONSIDERATION</heading>
       <para>
-        <num>1.</num>
-        <text><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Stockbridge-Munsee Tribal Law, Chapter 1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.06" proof="needed">Section 1.6.5(C)(7)</cite> states that any motion or request by a party after a judgement must be filed within 10 days after entry of judgement. The final judgement of the Stockbridge-Munsee Appellant Court was signed on November 22, 2010. The Motion for Reconsideration was filed on June 14, 2011. The date of filing of the Motion for Reconsideration is well beyond the allowed 10 days.</text>
+        <num>¶2</num>
+        <text>The Motion for Reconsideration is now before the Stockbridge-Munsee Appellant Court by Pro tempore, Garold Smith, Pro tempore, Honorable Donald Gurnoe and Honorable Candace Des Armo Coury.</text>
       </para>
+    </container>
+    <container name="Review of Facts and Findings">
+      <heading>Review of Facts and Findings</heading>
       <para>
-        <num>2.</num>
-        <text><cite doc="SMRP" path="§24|(A)" proof="needed">Stockbridge-Munsee Tribal Court, Rules of Procedure, Appeals, 24 Exclusive Jurisdiction(A)</cite> it states, "The Court of Appeals shall have exclusive jurisdiction to review all decisions of the Tribal Court as provided herein. The decision of the Court of Appeals shall be final as to all such review." Notwithstanding the belated filing of this Motion, the decision of this Appellant Court is final.</text>
+        <num>¶3</num>
+        <text>Upon review of all facts and documents this Appellate Court finds the following:</text>
+        <para>
+          <num>1.</num>
+          <text><cite doc="Stockbridge-Munsee Tribal Code" path="TCT.01">Stockbridge-Munsee Tribal Law, Chapter 1</cite>, <cite doc="Stockbridge-Munsee Tribal Code" path="|TCT.01.06">Section 1.6.5(C)(7)</cite> states that any motion or request by a party after a judgement must be filed within 10 days after entry of judgement. The final judgement of the Stockbridge-Munsee Appellant Court was signed on November 22, 2010. The Motion for Reconsideration was filed on June 14, 2011. The date of filing of the Motion for Reconsideration is well beyond the allowed 10 days.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text><cite path="§24|(A)" proof="needed">Stockbridge-Munsee Tribal Court, Rules of Procedure, Appeals, 24 Exclusive Jurisdiction(A)</cite> it states, "The Court of Appeals shall have exclusive jurisdiction to review all decisions of the Tribal Court as provided herein. The decision of the Court of Appeals shall be final as to all such review." Notwithstanding the belated filing of this Motion, the decision of this Appellant Court is final.</text>
+        </para>
       </para>
-    </para>
-    <container name="DECISION">
-      <heading>DECISION</heading>
-      <para>
-        <num>¶4</num>
-        <text>The Stockbridge-Munsee Appellant Court affirms its November 22, 2010 decision.</text>
-      </para>
+      <container name="DECISION">
+        <heading>DECISION</heading>
+        <para>
+          <num>¶4</num>
+          <text>The Stockbridge-Munsee Appellant Court affirms its November 22, 2010 decision.</text>
+        </para>
+      </container>
     </container>
   </container>
   <procedural-data>
