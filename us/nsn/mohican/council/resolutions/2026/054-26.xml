@@ -53,6 +53,29 @@
     <text>CERTIFICATION</text>
     <text>I, the undersigned, as Secretary of the Stockbridge-Munsee Tribal Council, hereby certify that the Council is composed of 7 members, of whom 7, constituting a quorum, were present at a meeting duly called, noticed, and held on the 15th day of September, 2026, that the foregoing resolution was duly adopted at such meeting by a vote of 5 for, 1 against, and 0 abstaining.</text>
   </procedural-data>
+  <attachment id="law">
+    <heading>Amendments Effective on October 15, 2026</heading>
+    <section>
+      <num>ENV.01.12</num>
+      <heading>Hunting Regulations – In General</heading>
+      <para>
+        <num>(a)</num>
+        <text>Equipment.</text>
+        <para>
+          <num>(4)</num>
+          <text>Cameras.</text>
+          <para>
+            <num>(A)</num>
+            <text>The use of any type of game camera is prohibited and cameras will be subject to confiscation and removal by the Tribe.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The only exception to the prohibition on game cameras is for tribal members within their own land assignment and within 100 yards of their own single-family dwelling.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+  </attachment>
   <codify:find-replace path="ENV.01" count="1" codified:doc="Stockbridge-Munsee Tribal Code" codified:path="|ENV.01.01|annos">
     <find>Part VI — Application</find>
     <replace>Part VII — Application</replace>
